@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+﻿# 🏎️ Garagem de Luxo - Estética Automotiva de Elite
 
-## Getting Started
+> **"A perfeição em cada detalhe, no coração de Diadema."**
 
-First, run the development server:
+Este é o repositório oficial da **Garagem de Luxo**, um Atelier de Estética Automotiva focado em transformações cinematográficas e proteção de alto padrão. Localizado estrategicamente na **Rua João de Almeida, 74, Centro — Diadema - SP**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 💎 Diferenciais do Projeto (PROJETO B22)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Este site não é apenas um portfólio, mas uma máquina de captura otimizada com:
+- **SEO/GEO Blindado**: Estruturado para dominar as buscas locais em Diadema e região.
+- **AEO (Answer Engine Optimization)**: Conteúdo semântico preparado para assistentes de voz e buscas por IA.
+- **DNA Lutina**: Identidade visual de alto impacto com foco em desejo e exclusividade [cite: 2025-11-26].
+- **Fricção Zero**: Fluxo direto para agendamento via WhatsApp com mensagens personalizadas.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🛠️ Serviços de Elite
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Lavagem Técnica Detalhada**: O cuidado essencial com PH neutro.
+- **Vitrificação de Pintura**: Proteção nano-cerâmica de alta durabilidade[cite: 9, 10].
+- **Polimento Técnico**: Correção de imperfeições para o reflexo perfeito[cite: 15, 16].
+- **Higienização Interna**: Desinfecção profunda e revitalização[cite: 17, 18].
+- **Limpeza de Motor**: Proteção dielétrica e acabamento premium[cite: 21, 22].
 
-## Learn More
+## 🚀 Tecnologias
 
-To learn more about Next.js, take a look at the following resources:
+- **Framework**: [Next.js 15+](https://nextjs.org/)
+- **Estilização**: [Tailwind CSS](https://tailwindcss.com/)
+- **Deploy**: [Vercel](https://vercel.com/)
+- **Otimização**: Turbopack & Metadata API
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📍 Localização & Contato
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Endereço**: Rua João de Almeida, 74 - Loja 4, Centro, Diadema - SP[cite: 33, 34, 39].
+- **WhatsApp**: [Agendar Consultoria Técnica](https://wa.me/5511981240056)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*Garagem de Luxo — Atelier Diadema — 2026*
