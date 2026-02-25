@@ -1,11 +1,11 @@
-﻿import Image from 'next/image';
-import Head from 'next/head';
+﻿import Image from "next/image";
+import Head from "next/head";
 
 export default function Home() {
   const zapUrl = "https://wa.me/5511981240056?text=Ol%C3%A1%21%20Gostaria%20de%20agendar%20uma%20consultoria%20t%C3%A9cnica%20para%20o%20meu%20ve%C3%ADculo.%20Prezo%20pela%20exclusividade%20e%20vi%20que%20na%20Garagem%20de%20Luxo%20ele%20estar%C3%A1%20em%20boas%20m%C3%A3os.%20%E2%9C%A8";
 
-  // Serviços refinados com a célula VENDA & IMPACTO, mantendo os originais
   const servicos = [
+    { t: "Lavagem Simples", d: "Limpeza convencional interna e externa para a manutenção do dia a dia do seu veículo." },
     { t: "Lavagem Técnica Detalhada", d: "Muito além de uma limpeza. Removemos contaminações invisíveis com PH neutro, preservando a alma do seu veículo em Diadema." },
     { t: "Vitrificação de Elite (Nano)", d: "Blindagem cerâmica de alta resistência. Brilho espelhado e proteção hidrofóbica por até 3 anos contra agentes externos." },
     { t: "Polimento de Alta Definição", d: "Correção cirúrgica de verniz. Nivelamento técnico para o reflexo perfeito e remoção de riscos em Diadema." },
@@ -13,8 +13,7 @@ export default function Home() {
     { t: "Impermeabilização de Tecidos", d: "Proteção avançada contra líquidos e manchas, preservando a originalidade e o toque do estofado." },
     { t: "Limpeza Técnica de Motor", d: "Segurança e estética premium. Remoção de sujidade com proteção dielétrica para componentes eletrônicos." },
     { t: "Hidratação de Couro Premium", d: "Tratamento com óleos essenciais que devolvem o toque macio e evitam rachaduras no couro original." },
-    { t: "Polimento de Faróis", d: "Restauração da clareza original e aplicação de proteção UV definitiva contra o amarelamento solar." },
-    { t: "Revitalização de Plásticos", d: "Recuperação do aspecto de novo com proteção duradoura contra o ressecamento e raios solares." }
+    { t: "Polimento de Faróis", d: "Restauração da clareza original e aplicação de proteção UV definitiva contra o amarelamento solar." }
   ];
 
   const jsonLd = {
@@ -49,13 +48,6 @@ export default function Home() {
       </Head>
 
       <main className="min-h-screen bg-[#0A0A0A] text-[#F5F5F5] font-sans selection:bg-[#C9A227] selection:text-black">
-        {/* Otimização AEO Invisível */}
-        <div className="sr-only">
-          <h2>Melhor estética automotiva em Diadema</h2>
-          <p>Onde lavar o carro no centro de Diadema? A Garagem de Luxo oferece lavagem técnica detalhada e polimento premium.</p>
-        </div>
-
-        {/* NAVBAR */}
         <nav className="fixed w-full z-50 p-6 flex justify-between items-center bg-black/90 backdrop-blur-xl border-b border-white/5">
           <div className="relative w-48 h-16 group">
             <div className="absolute inset-0 bg-[#C9A227]/10 blur-2xl rounded-full opacity-50 transition-opacity"></div>
@@ -66,10 +58,9 @@ export default function Home() {
           </a>
         </nav>
 
-        {/* HERO SECTION */}
         <section className="h-screen flex flex-col justify-center items-center text-center px-4 relative overflow-hidden">
           <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#0A0A0A]/80 to-[#0A0A0A] z-10"></div>
-          <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=2070')] bg-cover bg-center opacity-40 grayscale"></div>
+          <div className="absolute inset-0 bg-[url(https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=2070)] bg-cover bg-center opacity-40 grayscale"></div>
           
           <div className="relative z-20 space-y-6">
             <span className="text-[#C9A227] tracking-[0.7em] text-[10px] uppercase opacity-80 font-bold block">Estética Automotiva de Elite em Diadema</span>
@@ -87,7 +78,6 @@ export default function Home() {
           </div>
         </section>
 
-        {/* SERVIÇOS */}
         <section className="py-24 px-6 max-w-7xl mx-auto">
           <div className="text-center mb-16">
              <h2 className="text-2xl font-light uppercase tracking-[0.4em] border-b border-white/5 pb-8 inline-block">Serviços <span className="text-[#C9A227] font-bold">Atelier</span></h2>
@@ -104,14 +94,13 @@ export default function Home() {
           </div>
         </section>
 
-        {/* LOCALIZAÇÃO */}
         <section className="py-24 bg-[#080808] border-y border-white/5">
           <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="space-y-8 text-center lg:text-left">
               <h2 className="text-[#C9A227] text-xs uppercase tracking-[0.6em]">Geolocalização Diadema</h2>
               <p className="text-3xl font-light text-white italic">Rua João de Almeida, 74<br/><span className="font-bold text-[#C9A227] text-xl uppercase not-italic">Centro — Diadema - SP</span></p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
-                  <a href="https://www.google.com/maps/dir/?api=1&destination=-23.6826622,-46.6212458" target="_blank" className="inline-block px-10 py-4 bg-white text-black font-bold text-xs uppercase tracking-widest hover:bg-[#C9A227] transition-all">
+                  <a href="https://www.google.com/maps/dir//Rua+Jo%C3%A3o+de+Almeida,+74+-+Centro,+Diadema+-+SP" target="_blank" className="inline-block px-10 py-4 bg-white text-black font-bold text-xs uppercase tracking-widest hover:bg-[#C9A227] transition-all">
                     Traçar Rota
                   </a>
                   <a href={zapUrl} target="_blank" className="inline-block px-10 py-4 border border-[#C9A227] text-[#C9A227] font-bold text-xs uppercase tracking-widest hover:bg-[#C9A227] hover:text-black transition-all">
@@ -121,7 +110,7 @@ export default function Home() {
             </div>
             <div className="w-full h-[400px] grayscale opacity-60 border border-white/10 rounded-sm overflow-hidden shadow-2xl bg-[#111]">
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3653.473531649646!2d-46.6212458!3d-23.6826622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce44e667623a6b%3A0xc3f83d09a2432a6!2sR.%20Jo%C3%A3o%20de%20Almeida%2C%2074%20-%20Centro%2C%20Diadema%20-%20SP%2C%2009920-140!5e0!3m2!1spt-BR!2sbr!4v1715870000000!5m2!1spt-BR!2sbr" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3654.123456789!2d-46.6212458!3d-23.6826622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce44e528821951%3A0x6b4474ad63e80829!2sR.%20Jo%C3%A3o%20de%20Almeida%2C%2074%20-%20Centro%2C%20Diadema%20-%20SP%2C%2009920-140!5e0!3m2!1spt-BR!2sbr!4v1700000000000!5m2!1spt-BR!2sbr" 
                 width="100%" height="100%" style={{ border: 0 }} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade">
               </iframe>
             </div>
