@@ -2,19 +2,27 @@
 
 export const metadata = {
   metadataBase: new URL("https://garagemdeluxo.vercel.app"),
-  title: "Estética Automotiva em Diadema | Garagem de Luxo - Vitrificação e Polimento Premium",
-  description: "Estética automotiva premium em Diadema - SP. Vitrificação cerâmica, polimento técnico, lavagem detalhada e higienização interna no Centro de Diadema.",
-  keywords: ["estética automotiva em Diadema", "vitrificação em Diadema", "polimento automotivo Diadema", "lavagem técnica Diadema", "detailing automotivo SP"],
+  title: "Estética Automotiva em Diadema | Garagem de Luxo",
+  description: "Estética automotiva premium em Diadema - SP. Vitrificação, polimento e lavagem técnica.",
   openGraph: {
-    title: "Garagem de Luxo | Estética Automotiva Premium em Diadema",
-    description: "Vitrificação cerâmica, polimento técnico e detalhamento automotivo no Centro de Diadema.",
+    title: "Garagem de Luxo | Diadema",
+    description: "Estética automotiva premium em Diadema.",
     url: "https://garagemdeluxo.vercel.app",
-    siteName: "Garagem de Luxo Diadema",
+    siteName: "Garagem de Luxo",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Garagem de Luxo Diadema",
+      },
+    ],
     locale: "pt_BR",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
+    images: ["/og-image.png"],
   },
 };
 
@@ -141,4 +149,5 @@ export default function Home() {
     </main>
   );
 }
+
 
