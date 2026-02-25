@@ -1,13 +1,13 @@
-ï»¿import Image from "next/image";
+import Image from "next/image";
 
 export const metadata = {
   metadataBase: new URL("https://garagemdeluxo.vercel.app"),
-  title: "EstÃ©tica Automotiva em Diadema | Garagem de Luxo - VitrificaÃ§Ã£o e Polimento Premium",
-  description: "EstÃ©tica automotiva premium em Diadema - SP. VitrificaÃ§Ã£o cerÃ¢mica, polimento tÃ©cnico, lavagem detalhada e higienizaÃ§Ã£o interna no Centro de Diadema.",
-  keywords: ["estÃ©tica automotiva em Diadema", "vitrificaÃ§Ã£o em Diadema", "polimento automotivo Diadema", "lavagem tÃ©cnica Diadema", "detailing automotivo SP"],
+  title: "Estética Automotiva em Diadema | Garagem de Luxo - Vitrificação e Polimento Premium",
+  description: "Estética automotiva premium em Diadema - SP. Vitrificação cerâmica, polimento técnico, lavagem detalhada e higienização interna no Centro de Diadema.",
+  keywords: ["estética automotiva em Diadema", "vitrificação em Diadema", "polimento automotivo Diadema", "lavagem técnica Diadema", "detailing automotivo SP"],
   openGraph: {
-    title: "Garagem de Luxo | EstÃ©tica Automotiva Premium em Diadema",
-    description: "VitrificaÃ§Ã£o cerÃ¢mica, polimento tÃ©cnico e detalhamento automotivo no Centro de Diadema.",
+    title: "Garagem de Luxo | Estética Automotiva Premium em Diadema",
+    description: "Vitrificação cerâmica, polimento técnico e detalhamento automotivo no Centro de Diadema.",
     url: "https://garagemdeluxo.vercel.app",
     siteName: "Garagem de Luxo Diadema",
     locale: "pt_BR",
@@ -22,25 +22,25 @@ export default function Home() {
   const zapUrl = "https://wa.me/5511981240056?text=Ol%C3%A1%21%20Gostaria%20de%20agendar%20um%20servi%C3%A7o%20de%20est%C3%A9tica%20automotiva%20em%20Diadema.%20Vi%20o%20site%20e%20quero%20o%20melhor%20pro%20meu%20ve%C3%ADculo.%20%E2%9C%A8";
 
   const servicos = [
-    { t: "Lavagem Simples", d: "Limpeza convencional interna e externa para a manutenÃ§Ã£o do dia a dia do seu veÃ­culo." },
-    { t: "Lavagem TÃ©cnica Detalhada", d: "Muito alÃ©m de uma limpeza. Removemos contaminaÃ§Ãµes invisÃ­veis com PH neutro, preservando a alma do seu veÃ­culo em Diadema." },
-    { t: "VitrificaÃ§Ã£o de Elite (Nano)", d: "Blindagem cerÃ¢mica de alta resistÃªncia. Brilho espelhado e proteÃ§Ã£o hidrofÃ³bica por atÃ© 3 anos contra agentes externos." },
-    { t: "Polimento de Alta DefiniÃ§Ã£o", d: "CorreÃ§Ã£o cirÃºrgica de verniz. Nivelamento tÃ©cnico para o reflexo perfeito e remoÃ§Ã£o de riscos em Diadema." },
-    { t: "HigienizaÃ§Ã£o Interna Bio", d: "DesinfecÃ§Ã£o profunda com eliminaÃ§Ã£o de 99% de bactÃ©rias e odores. RenovaÃ§Ã£o total do seu ambiente interno." },
-    { t: "ImpermeabilizaÃ§Ã£o de Tecidos", d: "ProteÃ§Ã£o avanÃ§ada contra lÃ­quidos e manchas, preservando a originalidade e o toque do estofado." },
-    { t: "Limpeza TÃ©cnica de Motor", d: "SeguranÃ§a e estÃ©tica premium. RemoÃ§Ã£o de sujidade com proteÃ§Ã£o dielÃ©trica para componentes eletrÃ´nicos." },
-    { t: "HidrataÃ§Ã£o de Couro Premium", d: "Tratamento com Ã³leos essenciais que devolvem o toque macio e evitam rachaduras no couro original." },
-    { t: "Polimento de FarÃ³is", d: "RestauraÃ§Ã£o da clareza original e aplicaÃ§Ã£o de proteÃ§Ã£o UV definitiva contra o amarelamento solar." }
+    { t: "Lavagem Simples", d: "Limpeza convencional interna e externa para a manutenção do dia a dia do seu veículo." },
+    { t: "Lavagem Técnica Detalhada", d: "Muito além de uma limpeza. Removemos contaminações invisíveis com PH neutro, preservando a alma do seu veículo em Diadema." },
+    { t: "Vitrificação de Elite (Nano)", d: "Blindagem cerâmica de alta resistência. Brilho espelhado e proteção hidrofóbica por até 3 anos contra agentes externos." },
+    { t: "Polimento de Alta Definição", d: "Correção cirúrgica de verniz. Nivelamento técnico para o reflexo perfeito e remoção de riscos em Diadema." },
+    { t: "Higienização Interna Bio", d: "Desinfecção profunda com eliminação de 99% de bactérias e odores. Renovação total do seu ambiente interno." },
+    { t: "Impermeabilização de Tecidos", d: "Proteção avançada contra líquidos e manchas, preservando a originalidade e o toque do estofado." },
+    { t: "Limpeza Técnica de Motor", d: "Segurança e estética premium. Remoção de sujidade com proteção dielétrica para componentes eletrônicos." },
+    { t: "Hidratação de Couro Premium", d: "Tratamento com óleos essenciais que devolvem o toque macio e evitam rachaduras no couro original." },
+    { t: "Polimento de Faróis", d: "Restauração da clareza original e aplicação de proteção UV definitiva contra o amarelamento solar." }
   ];
 
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "AutoDetailing",
     "name": "Garagem de Luxo Diadema",
-    "image": "https://garagemdeluxo.vercel.app/opengraph-image",
+    "image": "https://garagemdeluxo.vercel.app/Logo.png",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Rua JoÃ£o de Almeida, 74",
+      "streetAddress": "Rua João de Almeida, 74",
       "addressLocality": "Diadema",
       "addressRegion": "SP",
       "postalCode": "09920-140",
@@ -79,26 +79,26 @@ export default function Home() {
         <div className="absolute inset-0 bg-[url(https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=2070)] bg-cover bg-center opacity-40 grayscale"></div>
         
         <div className="relative z-20 space-y-6">
-          <span className="text-[#C9A227] tracking-[0.7em] text-[10px] uppercase opacity-80 font-bold block">EstÃ©tica Automotiva de Elite em Diadema</span>
+          <span className="text-[#C9A227] tracking-[0.7em] text-[10px] uppercase opacity-80 font-bold block">Estética Automotiva de Elite em Diadema</span>
           <h1 className="text-5xl md:text-8xl font-extralight tracking-tighter uppercase italic leading-tight text-white">
             GARAGEM <span className="font-bold text-white not-italic">DE LUXO</span>
           </h1>
           <p className="max-w-2xl mx-auto text-gray-400 font-light text-sm md:text-lg italic opacity-70">
-            "NÃ£o lavamos carros, restauramos o orgulho de dirigir uma mÃ¡quina impecÃ¡vel."
+            "Não lavamos carros, restauramos o orgulho de dirigir uma máquina impecável."
           </p>
           <div className="pt-10">
              <a href={zapUrl} target="_blank" className="bg-black/80 border border-[#C9A227]/40 px-8 py-5 backdrop-blur-md rounded-sm inline-block shadow-[0_0_40px_rgba(201,162,39,0.15)] hover:border-[#C9A227] transition-all group">
-                <p className="text-[#C9A227] text-[11px] uppercase tracking-widest font-bold group-hover:scale-105 transition-transform">Agendar EstÃ©tica em Diadema</p>
+                <p className="text-[#C9A227] text-[11px] uppercase tracking-widest font-bold group-hover:scale-105 transition-transform">Agendar Estética em Diadema</p>
              </a>
           </div>
         </div>
       </section>
 
-      {/* SERVIÃ‡OS */}
+      {/* SERVIÇOS */}
       <section className="py-24 px-6 max-w-7xl mx-auto">
         <div className="text-center mb-16">
-           <h2 className="text-2xl font-light uppercase tracking-[0.4em] border-b border-white/5 pb-8 inline-block">ServiÃ§os <span className="text-[#C9A227] font-bold">Atelier</span></h2>
-           <p className="text-gray-500 text-xs mt-4 uppercase tracking-widest">Onde a estÃ©tica automotiva em Diadema vira arte</p>
+           <h2 className="text-2xl font-light uppercase tracking-[0.4em] border-b border-white/5 pb-8 inline-block">Serviços <span className="text-[#C9A227] font-bold">Atelier</span></h2>
+           <p className="text-gray-500 text-xs mt-4 uppercase tracking-widest">Onde a estética automotiva em Diadema vira arte</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {servicos.map((s, i) => (
@@ -111,15 +111,15 @@ export default function Home() {
         </div>
       </section>
 
-      {/* LOCALIZAÃ‡ÃƒO & MAPA */}
+      {/* LOCALIZAÇÃO & MAPA */}
       <section className="py-24 bg-[#080808] border-y border-white/5">
         <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div className="space-y-8 text-center lg:text-left">
-            <h2 className="text-[#C9A227] text-xs uppercase tracking-[0.6em]">GeolocalizaÃ§Ã£o Diadema</h2>
-            <p className="text-3xl font-light text-white italic">Rua JoÃ£o de Almeida, 74<br/><span className="font-bold text-[#C9A227] text-xl uppercase not-italic">Centro â€” Diadema - SP</span></p>
+            <h2 className="text-[#C9A227] text-xs uppercase tracking-[0.6em]">Geolocalização Diadema</h2>
+            <p className="text-3xl font-light text-white italic">Rua João de Almeida, 74<br/><span className="font-bold text-[#C9A227] text-xl uppercase not-italic">Centro — Diadema - SP</span></p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
                 <a href="https://www.google.com/maps/dir/?api=1&destination=-23.6826622,-46.6212458" target="_blank" className="inline-block px-10 py-4 bg-white text-black font-bold text-xs uppercase tracking-widest hover:bg-[#C9A227] transition-all">
-                  TraÃ§ar Rota
+                  Traçar Rota
                 </a>
                 <a href={zapUrl} target="_blank" className="inline-block px-10 py-4 border border-[#C9A227] text-[#C9A227] font-bold text-xs uppercase tracking-widest hover:bg-[#C9A227] hover:text-black transition-all">
                   Chamar no WhatsApp
@@ -136,7 +136,7 @@ export default function Home() {
       </section>
 
       <footer className="py-20 text-center opacity-30 text-[9px] tracking-[0.5em] uppercase">
-        Garagem de Luxo â€” Atelier de EstÃ©tica Automotiva Diadema â€” 2026
+        Garagem de Luxo — Atelier de Estética Automotiva Diadema — 2026
       </footer>
     </main>
   );
