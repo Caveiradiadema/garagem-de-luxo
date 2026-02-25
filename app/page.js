@@ -1,34 +1,25 @@
 ﻿import Image from "next/image";
 
 export const metadata = {
-  title: "Garagem de Luxo Diadema | Estética Automotiva Premium",
-  description: "Lavagem técnica, vitrificação e polimento de alto padrão em Diadema. Excelência e brilho para seu veículo.",
+  metadataBase: new URL("https://garagemdeluxo.vercel.app"),
+  title: "Estética Automotiva em Diadema | Garagem de Luxo - Vitrificação e Polimento Premium",
+  description: "Estética automotiva premium em Diadema - SP. Vitrificação cerâmica, polimento técnico, lavagem detalhada e higienização interna no Centro de Diadema.",
+  keywords: ["estética automotiva em Diadema", "vitrificação em Diadema", "polimento automotivo Diadema", "lavagem técnica Diadema", "detailing automotivo SP"],
   openGraph: {
-    title: "Garagem de Luxo Diadema | Estética Automotiva Premium",
-    description: "Estética automotiva premium em Diadema. Vitrificação, polimento e lavagem técnica de elite.",
+    title: "Garagem de Luxo | Estética Automotiva Premium em Diadema",
+    description: "Vitrificação cerâmica, polimento técnico e detalhamento automotivo no Centro de Diadema.",
     url: "https://garagemdeluxo.vercel.app",
     siteName: "Garagem de Luxo Diadema",
-    images: [
-      {
-        url: "https://garagemdeluxo.vercel.app/Logo.png",
-        width: 1200,
-        height: 630,
-        alt: "Garagem de Luxo Diadema - Estética Automotiva Premium",
-      },
-    ],
     locale: "pt_BR",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Garagem de Luxo Diadema",
-    description: "Estética automotiva premium em Diadema.",
-    images: ["https://garagemdeluxo.vercel.app/Logo.png"],
   },
 };
 
 export default function Home() {
-  const zapUrl = "https://wa.me/5511981240056?text=Ol%C3%A1%21%20Gostaria%20de%20agendar%20uma%20consultoria%20t%C3%A9cnica%20para%20o%20meu%20ve%C3%ADculo.%20Prezo%20pela%20exclusividade%20e%20vi%20que%20na%20Garagem%20de%20Luxo%20ele%20estar%C3%A1%20em%20boas%20m%C3%A3os.%20%E2%9C%A8";
+  const zapUrl = "https://wa.me/5511981240056?text=Ol%C3%A1%21%20Gostaria%20de%20agendar%20um%20servi%C3%A7o%20de%20est%C3%A9tica%20automotiva%20em%20Diadema.%20Vi%20o%20site%20e%20quero%20o%20melhor%20pro%20meu%20ve%C3%ADculo.%20%E2%9C%A8";
 
   const servicos = [
     { t: "Lavagem Simples", d: "Limpeza convencional interna e externa para a manutenção do dia a dia do seu veículo." },
@@ -46,8 +37,7 @@ export default function Home() {
     "@context": "https://schema.org",
     "@type": "AutoDetailing",
     "name": "Garagem de Luxo Diadema",
-    "description": "Estética automotiva premium em Diadema. Lavagem técnica, polimento e vitrificação.",
-    "image": "https://garagemdeluxo.vercel.app/Logo.png",
+    "image": "https://garagemdeluxo.vercel.app/opengraph-image",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Rua João de Almeida, 74",
@@ -71,6 +61,8 @@ export default function Home() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+      
+      {/* NAVBAR */}
       <nav className="fixed w-full z-50 p-6 flex justify-between items-center bg-black/90 backdrop-blur-xl border-b border-white/5">
         <div className="relative w-48 h-16 group">
           <div className="absolute inset-0 bg-[#C9A227]/10 blur-2xl rounded-full opacity-50 transition-opacity"></div>
@@ -81,6 +73,7 @@ export default function Home() {
         </a>
       </nav>
 
+      {/* HERO SECTION */}
       <section className="h-screen flex flex-col justify-center items-center text-center px-4 relative overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#0A0A0A]/80 to-[#0A0A0A] z-10"></div>
         <div className="absolute inset-0 bg-[url(https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=2070)] bg-cover bg-center opacity-40 grayscale"></div>
@@ -95,12 +88,13 @@ export default function Home() {
           </p>
           <div className="pt-10">
              <a href={zapUrl} target="_blank" className="bg-black/80 border border-[#C9A227]/40 px-8 py-5 backdrop-blur-md rounded-sm inline-block shadow-[0_0_40px_rgba(201,162,39,0.15)] hover:border-[#C9A227] transition-all group">
-                <p className="text-[#C9A227] text-[11px] uppercase tracking-widest font-bold group-hover:scale-105 transition-transform">Garantir Vaga na Agenda</p>
+                <p className="text-[#C9A227] text-[11px] uppercase tracking-widest font-bold group-hover:scale-105 transition-transform">Agendar Estética em Diadema</p>
              </a>
           </div>
         </div>
       </section>
 
+      {/* SERVIÇOS */}
       <section className="py-24 px-6 max-w-7xl mx-auto">
         <div className="text-center mb-16">
            <h2 className="text-2xl font-light uppercase tracking-[0.4em] border-b border-white/5 pb-8 inline-block">Serviços <span className="text-[#C9A227] font-bold">Atelier</span></h2>
@@ -117,13 +111,14 @@ export default function Home() {
         </div>
       </section>
 
+      {/* LOCALIZAÇÃO & MAPA */}
       <section className="py-24 bg-[#080808] border-y border-white/5">
         <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div className="space-y-8 text-center lg:text-left">
             <h2 className="text-[#C9A227] text-xs uppercase tracking-[0.6em]">Geolocalização Diadema</h2>
             <p className="text-3xl font-light text-white italic">Rua João de Almeida, 74<br/><span className="font-bold text-[#C9A227] text-xl uppercase not-italic">Centro — Diadema - SP</span></p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
-                <a href="https://www.google.com/maps/dir//Rua+Jo%C3%A3o+de+Almeida,+74+-+Centro,+Diadema+-+SP" target="_blank" className="inline-block px-10 py-4 bg-white text-black font-bold text-xs uppercase tracking-widest hover:bg-[#C9A227] transition-all">
+                <a href="https://www.google.com/maps/dir/?api=1&destination=-23.6826622,-46.6212458" target="_blank" className="inline-block px-10 py-4 bg-white text-black font-bold text-xs uppercase tracking-widest hover:bg-[#C9A227] transition-all">
                   Traçar Rota
                 </a>
                 <a href={zapUrl} target="_blank" className="inline-block px-10 py-4 border border-[#C9A227] text-[#C9A227] font-bold text-xs uppercase tracking-widest hover:bg-[#C9A227] hover:text-black transition-all">
@@ -133,7 +128,7 @@ export default function Home() {
           </div>
           <div className="w-full h-[400px] grayscale opacity-60 border border-white/10 rounded-sm overflow-hidden shadow-2xl bg-[#111]">
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3654.450372421711!2d-46.62382072376175!3d-23.68266216521361!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce44e6b12d5939%3A0x1967a188339c6426!2sRua%20Jo%C3%A3o%20de%20Almeida%2C%2074%20-%20Centro%2C%20Diadema%20-%20SP%2C%2009920-140!5e0!3m2!1spt-BR!2sbr!4v1700000000000" 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3653.784537166589!2d-46.62382072466587!3d-23.68266217871724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce44e363a011a7%3A0xe549551381226068!2sR.%20Jo%C3%A3o%20de%20Almeida%2C%2074%20-%20Centro%2C%20Diadema%20-%20SP%2C%2009920-140!5e0!3m2!1spt-BR!2sbr!4v1700000000000" 
               width="100%" height="100%" style={{ border: 0 }} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade">
             </iframe>
           </div>
