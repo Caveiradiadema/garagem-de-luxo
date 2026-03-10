@@ -1,101 +1,260 @@
-﻿"use client";
+"use client";
+
 import { motion } from "framer-motion";
 import Image from "next/image";
 
 export default function Home() {
-  const zapUrl = "https://wa.me/5511981240056?text=Ol%C3%A1%21%20Gostaria%20de%20agendar%20um%20servi%C3%A7o%20de%20est%C3%A9tica%20automotiva%20em%20Diadema.%20Vi%20o%20site%20e%20quero%20o%20melhor%20pro%20meu%20ve%C3%ADculo.%20%E2%9C%A8";
+  const zapUrl =
+    "https://wa.me/5511981240056?text=Olá!%20Gostaria%20de%20agendar%20um%20serviço%20de%20estética%20automotiva%20em%20Diadema.%20Vi%20o%20site%20e%20quero%20o%20melhor%20para%20o%20meu%20veículo.%20✨";
+
+  const rotaUrl =
+    "https://www.google.com/maps/dir/?api=1&destination=Rua+João+de+Almeida,+74,+Centro,+Diadema,+SP";
+  const mapEmbedUrl =
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3653.945447788414!2d-46.6260021!3d-23.6828551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce335e1da49ed93A%3A0xd1297bd77206b47e!2sGaragem%20de%20luxo!5e0!3m2!1spt-BR!2sbr!4v1709123456789!5m2!1spt-BR!2sbr";
 
   const servicos = [
-    { t: "Lavagem Simples", d: "Limpeza convencional interna e externa para a manutenção do dia a dia do seu veículo." },
-    { t: "Lavagem Técnica Detalhada", d: "Remoção de contaminações invisíveis com PH neutro, preservando a alma do seu veículo em Diadema." },
-    { t: "Vitrificação de Elite (Nano)", d: "Blindagem cerâmica de alta resistência. Brilho espelhado e proteção por até 3 anos." },
-    { t: "Polimento de Alta Definição", d: "Correção cirúrgica de verniz. Nivelamento técnico para o reflexo perfeito em Diadema." },
-    { t: "Higienização Interna Bio", d: "Desinfecção profunda com eliminação de 99% de bactérias e odores." },
-    { t: "Impermeabilização de Tecidos", d: "Proteção avançada contra líquidos e manchas, preservando o estofado." },
-    { t: "Limpeza Técnica de Motor", d: "Remoção de sujidade com proteção dielétrica para componentes eletrônicos." },
-    { t: "Hidratação de Couro Premium", d: "Tratamento que devolve o toque macio e evitam rachaduras no couro." },
-    { t: "Polimento de Faróis", d: "Restauração da clareza original e aplicação de proteção UV definitiva." }
+    {
+      t: "Lavagem Simples",
+      d: "Limpeza interna e externa para manter o veículo bem cuidado no dia a dia.",
+    },
+    {
+      t: "Lavagem Técnica Detalhada",
+      d: "Remoção de contaminações com produtos adequados e cuidado refinado para preservar acabamento e pintura.",
+    },
+    {
+      t: "Vitrificação de Elite",
+      d: "Proteção cerâmica com brilho intenso, maior resistência e acabamento premium de longa duração.",
+    },
+    {
+      t: "Polimento de Alta Definição",
+      d: "Correção técnica de verniz para recuperar profundidade, reflexo e presença visual do veículo.",
+    },
+    {
+      t: "Higienização Interna Bio",
+      d: "Desinfecção interna com foco em limpeza profunda, redução de odores e renovação do ambiente.",
+    },
+    {
+      t: "Impermeabilização de Tecidos",
+      d: "Proteção para bancos e superfícies têxteis contra líquidos, manchas e desgaste prematuro.",
+    },
+    {
+      t: "Limpeza Técnica de Motor",
+      d: "Remoção cuidadosa de sujeira com atenção aos componentes sensíveis e acabamento limpo.",
+    },
+    {
+      t: "Hidratação de Couro Premium",
+      d: "Tratamento para recuperar maciez, aparência sofisticada e proteção contra ressecamento.",
+    },
+    {
+      t: "Polimento de Faróis",
+      d: "Restauração de transparência com acabamento mais limpo, seguro e visualmente renovado.",
+    },
   ];
 
   const containerVariants = {
     hidden: { opacity: 0 },
     visible: {
       opacity: 1,
-      transition: { staggerChildren: 0.2 }
-    }
+      transition: { staggerChildren: 0.12 },
+    },
   };
 
   const itemVariants = {
     hidden: { opacity: 0, filter: "blur(10px)", y: 20 },
-    visible: { opacity: 1, filter: "blur(0px)", y: 0, transition: { duration: 0.8 } }
+    visible: {
+      opacity: 1,
+      filter: "blur(0px)",
+      y: 0,
+      transition: { duration: 0.7 },
+    },
   };
 
   return (
-    <main className="min-h-screen bg-[#0A0A0A] text-[#F5F5F5] font-sans selection:bg-[#C9A227] selection:text-black">
-      <nav className="fixed w-full z-50 p-6 flex justify-between items-center bg-black/90 backdrop-blur-xl border-b border-white/5">
-        <div className="relative w-48 h-16">
-          <Image src="/Logo.png" alt="Logo Garagem de luxo" fill className="object-contain scale-125" priority />
-        </div>
-        <a href={zapUrl} target="_blank" className="text-[10px] tracking-[0.4em] uppercase border border-[#C9A227]/60 px-6 py-2 hover:bg-[#C9A227] hover:text-black transition-all font-bold">
-          Agendar Agora
-        </a>
-      </nav>
+    <main className="min-h-screen bg-[#0A0A0A] text-white">
+      <section className="relative overflow-hidden border-b border-white/10">
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,#C9A22722,transparent_30%),radial-gradient(circle_at_bottom,#ffffff0d,transparent_35%)]" />
 
-      {/* Hero */}
-      <section className="h-screen flex flex-col justify-center items-center text-center px-4 relative overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#0A0A0A]/80 to-[#0A0A0A] z-10"></div>
-        <div className="absolute inset-0 bg-[url(https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=2070)] bg-cover bg-center opacity-40 grayscale"></div>
-        <motion.div initial={{opacity:0, filter:"blur(15px)"}} animate={{opacity:1, filter:"blur(0px)"}} transition={{duration:1.5}} className="relative z-20 space-y-6">
-          <span className="text-[#C9A227] tracking-[0.7em] text-[10px] uppercase font-bold block">Estética Automotiva de Elite</span>
-          <h1 className="text-5xl md:text-8xl font-extralight tracking-tighter uppercase italic text-white">GARAGEM <span className="font-bold not-italic">DE LUXO</span></h1>
-          <a href={zapUrl} target="_blank" className="mt-10 bg-black/80 border border-[#C9A227]/40 px-8 py-5 backdrop-blur-md inline-block hover:border-[#C9A227] transition-all group">
-             <p className="text-[#C9A227] text-[11px] uppercase tracking-widest font-bold">Agendar Estética em Diadema</p>
-          </a>
+        <div className="relative mx-auto max-w-7xl px-6 py-24 md:py-32">
+          <div className="grid items-center gap-14 lg:grid-cols-[1.05fr_0.95fr]">
+            <motion.div
+              initial={{ opacity: 0, y: 24 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.7 }}
+              className="max-w-3xl"
+            >
+              <span className="inline-flex rounded-full border border-[#C9A227]/30 bg-[#C9A227]/10 px-4 py-2 text-xs font-semibold uppercase tracking-[0.24em] text-[#E7C65A]">
+                Estética Automotiva de Elite
+              </span>
+
+              <h1 className="mt-6 text-4xl font-black tracking-tight sm:text-5xl md:text-6xl xl:text-7xl">
+                GARAGEM DE LUXO
+              </h1>
+
+              <p className="mt-6 text-lg leading-8 text-zinc-300 md:text-xl">
+                Exclusividade, acabamento e perfeição em cada detalhe para quem não
+                aceita um cuidado comum para o próprio veículo.
+              </p>
+
+              <p className="mt-4 text-lg leading-8 text-zinc-400">
+                Lavagem técnica, vitrificação, polimento e tratamentos premium no
+                centro de Diadema para carros que exigem presença impecável.
+              </p>
+
+              <div className="mt-10 flex flex-wrap gap-4">
+                <a
+                  href={zapUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="rounded-full bg-[#C9A227] px-6 py-3 font-semibold text-black transition hover:bg-[#e7c65a]"
+                >
+                  Agendar no WhatsApp
+                </a>
+
+                <a
+                  href="#servicos"
+                  className="rounded-full border border-white/15 bg-white/5 px-6 py-3 font-semibold text-white transition hover:bg-white/10"
+                >
+                  Ver serviços
+                </a>
+              </div>
+            </motion.div>
+
+            <motion.div
+              initial={{ opacity: 0, scale: 0.97 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ duration: 0.7, delay: 0.2 }}
+              className="relative rounded-[2rem] border border-white/10 bg-white/[0.04] p-6 md:p-8"
+            >
+              <div className="mb-6 flex items-center gap-4">
+                <div className="relative h-16 w-16 overflow-hidden rounded-full border border-[#C9A227]/30 bg-black/20">
+                  <Image
+                    src="/Logo.png"
+                    alt="Garagem de Luxo"
+                    fill
+                    className="object-contain p-2"
+                    priority
+                  />
+                </div>
+                <div>
+                  <p className="text-sm uppercase tracking-[0.2em] text-zinc-400">
+                    Presença premium
+                  </p>
+                  <h2 className="text-2xl font-bold text-white">
+                    Cuidado automotivo com acabamento de elite
+                  </h2>
+                </div>
+              </div>
+
+              <div className="grid gap-4 sm:grid-cols-2">
+                <div className="rounded-2xl border border-white/10 bg-black/20 p-5">
+                  <p className="text-2xl font-black text-[#E7C65A]">Diadema</p>
+                  <p className="mt-2 text-sm uppercase tracking-[0.18em] text-zinc-400">
+                    Atendimento local
+                  </p>
+                </div>
+                <div className="rounded-2xl border border-white/10 bg-black/20 p-5">
+                  <p className="text-2xl font-black text-[#E7C65A]">Premium</p>
+                  <p className="mt-2 text-sm uppercase tracking-[0.18em] text-zinc-400">
+                    Acabamento
+                  </p>
+                </div>
+                <div className="rounded-2xl border border-white/10 bg-black/20 p-5">
+                  <p className="text-2xl font-black text-[#E7C65A]">Nano</p>
+                  <p className="mt-2 text-sm uppercase tracking-[0.18em] text-zinc-400">
+                    Proteção cerâmica
+                  </p>
+                </div>
+                <div className="rounded-2xl border border-white/10 bg-black/20 p-5">
+                  <p className="text-2xl font-black text-[#E7C65A]">Detalhe</p>
+                  <p className="mt-2 text-sm uppercase tracking-[0.18em] text-zinc-400">
+                    Atenção total
+                  </p>
+                </div>
+              </div>
+            </motion.div>
+          </div>
+        </div>
+      </section>
+
+      <section id="servicos" className="mx-auto max-w-7xl px-6 py-20 md:py-24">
+        <div className="mb-10 max-w-3xl">
+          <p className="text-sm uppercase tracking-[0.22em] text-[#E7C65A]">
+            Serviços
+          </p>
+          <h2 className="mt-3 text-3xl font-black tracking-tight md:text-5xl">
+            Tratamentos pensados para elevar a presença do seu veículo
+          </h2>
+        </div>
+
+        <motion.div
+          variants={containerVariants}
+          initial="hidden"
+          animate="visible"
+          className="grid gap-6 md:grid-cols-2 xl:grid-cols-3"
+        >
+          {servicos.map((s) => (
+            <motion.article
+              key={s.t}
+              variants={itemVariants}
+              className="rounded-[2rem] border border-white/10 bg-white/[0.03] p-7"
+            >
+              <h3 className="text-2xl font-bold text-white">{s.t}</h3>
+              <p className="mt-4 leading-7 text-zinc-300">{s.d}</p>
+            </motion.article>
+          ))}
         </motion.div>
       </section>
 
-      {/* Serviços com Efeito Escada */}
-      <motion.section 
-        variants={containerVariants}
-        initial="hidden"
-        whileInView="visible"
-        viewport={{ once: true, amount: 0.2 }}
-        className="py-24 px-6 max-w-7xl mx-auto"
-      >
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {servicos.map((s, i) => (
-            <motion.div key={i} variants={itemVariants} className="group p-8 bg-[#0D0D0D] border border-white/5 rounded-sm hover:border-[#C9A227]/30 transition-all">
-              <h3 className="text-[#C9A227] text-lg font-bold mb-3 italic tracking-tight">{s.t}</h3>
-              <p className="text-gray-500 text-sm font-light leading-relaxed">{s.d}</p>
-              <div className="absolute bottom-0 left-0 h-[2px] w-0 group-hover:w-full transition-all duration-700 bg-[#C9A227]"></div>
-            </motion.div>
-          ))}
-        </div>
-      </motion.section>
+      <section className="border-y border-white/10 bg-white/[0.02]">
+        <div className="mx-auto max-w-7xl px-6 py-20 md:py-24">
+          <div className="grid gap-10 lg:grid-cols-[1fr_1fr] items-center">
+            <div>
+              <p className="text-sm uppercase tracking-[0.22em] text-[#E7C65A]">
+                Geolocalização Diadema
+              </p>
+              <h2 className="mt-3 text-3xl font-black tracking-tight md:text-5xl">
+                Rua João de Almeida, 74 - Loja 4, Centro — Diadema - SP
+              </h2>
+              <p className="mt-5 max-w-3xl text-lg leading-8 text-zinc-300">
+                Atendimento com foco em acabamento premium para clientes que querem
+                proteção, brilho, limpeza técnica e apresentação impecável.
+              </p>
 
-      {/* Localização Completa */}
-      <motion.section 
-        initial={{opacity:0, y:40}} 
-        whileInView={{opacity:1, y:0}} 
-        viewport={{once:true}}
-        className="py-24 bg-[#080808] border-y border-white/5"
-      >
-        <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-          <div className="space-y-8 text-center lg:text-left">
-            <h2 className="text-[#C9A227] text-xs uppercase tracking-[0.6em]">Geolocalização Diadema</h2>
-            <p className="text-3xl font-light text-white italic">Rua João de Almeida, 74 - Loja 4<br/><span className="font-bold text-[#C9A227] text-xl uppercase not-italic">Centro — Diadema - SP</span></p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
-                <a href="https://www.google.com/maps/dir/?api=1&destination=Rua+João+de+Almeida+74+Centro+Diadema+SP7" target="_blank" className="inline-block px-10 py-4 bg-white text-black font-bold text-xs uppercase tracking-widest hover:bg-[#C9A227] transition-all">Traçar Rota</a>
-                <a href={zapUrl} target="_blank" className="inline-block px-10 py-4 border border-[#C9A227] text-[#C9A227] font-bold text-xs uppercase tracking-widest hover:bg-[#C9A227] hover:text-black transition-all">Chamar no WhatsApp</a>
+              <div className="mt-8 flex flex-wrap gap-4">
+                <a
+                  href={rotaUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="rounded-full border border-white/15 bg-white/5 px-6 py-3 font-semibold text-white transition hover:bg-white/10"
+                >
+                  Traçar rota
+                </a>
+                <a
+                  href={zapUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="rounded-full bg-[#C9A227] px-6 py-3 font-semibold text-black transition hover:bg-[#e7c65a]"
+                >
+                  Chamar no WhatsApp
+                </a>
+              </div>
+            </div>
+
+            <div className="overflow-hidden rounded-[2rem] border border-white/10 bg-black/20">
+              <iframe
+                src={mapEmbedUrl}
+                width="100%"
+                height="420"
+                style={{ border: 0, filter: "grayscale(1)", opacity: 0.82 }}
+                allowFullScreen
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                title="Mapa da Garagem de Luxo em Diadema"
+              />
             </div>
           </div>
-          <div className="w-full h-[400px] grayscale opacity-60 border border-white/10 overflow-hidden bg-[#111]">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3653.945447788414!2d-46.6260021!3d-23.6828551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce335e1da49ed9%3A0xd1297bd77206b47e!2sGaragem%20de%20luxo!5e0!3m2!1spt-BR!2sbr!4v1709123456789!5m2!1spt-BR!2sbr" width="100%" height="100%" style={{ border: 0 }} allowFullScreen="" loading="lazy"></iframe>
-          </div>
         </div>
-      </motion.section>
-
-      <footer className="py-20 text-center opacity-30 text-[9px] tracking-[0.5em] uppercase">Garagem de luxo — 2026</footer>
+      </section>
     </main>
   );
 }
