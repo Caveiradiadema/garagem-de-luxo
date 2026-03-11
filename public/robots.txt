@@ -1,5 +1,0 @@
-﻿User-agent: *
-Allow: /
-Allow: /sitemap.xml
-
-Sitemap: https://garagemdeluxo.vercel.app/sitemap.xml
