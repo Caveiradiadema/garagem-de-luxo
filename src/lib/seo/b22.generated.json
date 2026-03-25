@@ -1,0 +1,573 @@
+{
+  "engine_version": "B22-MONSTER-BRAIN-v2.0.0",
+  "generated_at": "2026-03-13T22:37:43.682042",
+  "project": {
+    "name": "Garagem de Luxo",
+    "slug": "garagem-de-luxo",
+    "niche": "automotivo premium, estética automotiva, lavagem técnica, detalhamento",
+    "entity": "AutoWash",
+    "geo_primary": "Diadema/SP",
+    "geo_secondary": [
+      "ABC Paulista",
+      "São Paulo/SP"
+    ],
+    "audience": [
+      "Proprietários de veículos premium",
+      "Colecionadores de carros",
+      "Público de alto poder aquisitivo exigente com estética veicular"
+    ],
+    "services": [
+      "Lavagem Técnica",
+      "Detalhamento Automotivo",
+      "Vitrificação de Pintura",
+      "Polimento Técnico",
+      "Higienização Interna Premium"
+    ],
+    "brand_tone": "premium, técnico, exclusivo",
+    "value_proposition": "O mais alto padrão em detalhamento e estética automotiva para veículos de luxo no ABC Paulista, combinando técnicas avançadas e atendimento exclusivo."
+  },
+  "site_metadata": {
+    "title_default": "Garagem de Luxo | Estética Automotiva Premium no ABC",
+    "title_template": "%s | Garagem de Luxo",
+    "description_default": "Centro de estética automotiva premium especializado em lavagem técnica e detalhamento em Diadema e ABC Paulista. Agende um serviço exclusivo para seu veículo.",
+    "keywords_primary": [
+      "estética automotiva premium",
+      "lavagem técnica automotiva",
+      "detalhamento de carros de luxo",
+      "estética automotiva Diadema",
+      "car detailer ABC Paulista"
+    ],
+    "keywords_secondary": [
+      "vitrificação de pintura",
+      "polimento técnico",
+      "estética automotiva São Paulo",
+      "lavagem detalhada"
+    ],
+    "entities": [
+      "Carro de luxo",
+      "Lavagem de carro",
+      "Polimento",
+      "Diadema, São Paulo",
+      "Região do Grande ABC"
+    ],
+    "canonical_base": "https://www.garagemdeluxo.com.br",
+    "language": "pt-BR"
+  },
+  "route_metadata": [
+    {
+      "slug": "/",
+      "type": "home",
+      "search_intent": "navegacional, comercial",
+      "title": "Estética Automotiva Premium no ABC Paulista",
+      "description": "Garagem de Luxo é referência em lavagem técnica e detalhamento para veículos premium em Diadema. Estrutura de alto padrão para o seu carro.",
+      "h1": "O Cuidado Premium que Seu Veículo de Luxo Merece",
+      "primary_keyword": "estética automotiva premium",
+      "secondary_keywords": [
+        "detalhamento automotivo",
+        "lavagem de carros de luxo"
+      ],
+      "questions_to_answer": [
+        "Onde encontrar estética automotiva de luxo no ABC?",
+        "Quais são os diferenciais da Garagem de Luxo?"
+      ],
+      "cta": "Agende uma Avaliação Premium",
+      "schema_types": [
+        "WebSite",
+        "AutoWash",
+        "LocalBusiness"
+      ]
+    },
+    {
+      "slug": "/servicos",
+      "type": "service_hub",
+      "search_intent": "informativo, comercial",
+      "title": "Nossos Serviços | Detalhamento e Lavagem Técnica",
+      "description": "Conheça nosso portfólio completo de serviços: lavagem técnica, polimento, vitrificação e higienização para veículos premium.",
+      "h1": "Serviços de Estética Automotiva de Alta Performance",
+      "primary_keyword": "serviços de estética automotiva",
+      "secondary_keywords": [
+        "vitrificação de pintura",
+        "polimento técnico automotivo"
+      ],
+      "questions_to_answer": [
+        "Quais serviços de estética automotiva são oferecidos?",
+        "Como funciona o processo de detalhamento?"
+      ],
+      "cta": "Fale com um Especialista",
+      "schema_types": [
+        "CollectionPage",
+        "Service"
+      ]
+    },
+    {
+      "slug": "/lavagem-tecnica",
+      "type": "service",
+      "search_intent": "comercial, transacional",
+      "title": "Lavagem Técnica Automotiva Premium em Diadema",
+      "description": "Lavagem técnica especializada com produtos de alta performance. Cuidado extremo para preservar a pintura e os detalhes do seu carro de luxo.",
+      "h1": "Lavagem Técnica Premium: Precisão e Cuidado Absoluto",
+      "primary_keyword": "lavagem técnica automotiva",
+      "secondary_keywords": [
+        "lavagem detalhada",
+        "lavagem de carros premium"
+      ],
+      "questions_to_answer": [
+        "O que é uma lavagem técnica automotiva?",
+        "Qual a diferença entre lavagem comum e técnica?"
+      ],
+      "cta": "Agende sua Lavagem Técnica",
+      "schema_types": [
+        "WebPage",
+        "Service"
+      ]
+    },
+    {
+      "slug": "/faq",
+      "type": "faq",
+      "search_intent": "informativo",
+      "title": "Dúvidas Frequentes | Garagem de Luxo",
+      "description": "Tire suas dúvidas sobre lavagem técnica, detalhamento, produtos utilizados e agendamentos na nossa estética automotiva.",
+      "h1": "Perguntas Frequentes sobre Estética Premium",
+      "primary_keyword": "dúvidas estética automotiva",
+      "secondary_keywords": [
+        "faq detalhamento automotivo",
+        "perguntas lavagem técnica"
+      ],
+      "questions_to_answer": [
+        "Quanto tempo demora um detalhamento?",
+        "Quais produtos são utilizados na pintura?"
+      ],
+      "cta": "Não encontrou sua resposta? Chame no WhatsApp",
+      "schema_types": [
+        "FAQPage"
+      ]
+    },
+    {
+      "slug": "/contato",
+      "type": "contact",
+      "search_intent": "transacional, navegacional",
+      "title": "Contato e Localização | Garagem de Luxo Diadema",
+      "description": "Agende seu horário pelo WhatsApp. Estamos localizados em Diadema, atendendo todo o ABC Paulista e São Paulo com exclusividade.",
+      "h1": "Agende o Cuidado do seu Veículo",
+      "primary_keyword": "contato estética automotiva",
+      "secondary_keywords": [
+        "whatsapp garagem de luxo",
+        "agendar lavagem técnica"
+      ],
+      "questions_to_answer": [
+        "Como agendar um serviço?",
+        "Qual o endereço e horário de funcionamento?"
+      ],
+      "cta": "Iniciar Conversa no WhatsApp",
+      "schema_types": [
+        "ContactPage",
+        "LocalBusiness"
+      ]
+    }
+  ],
+  "faq_aeo": [
+    {
+      "question": "O que a Garagem de Luxo faz?",
+      "answer": "A Garagem de Luxo atua com foco em automotivo premium, estética automotiva, lavagem técnica, detalhamento, oferecendo soluções alinhadas às necessidades reais do público.",
+      "intent": "entendimento",
+      "voice_style": "natural"
+    },
+    {
+      "question": "Para quem a Garagem de Luxo é indicada?",
+      "answer": "A Garagem de Luxo atende pessoas e empresas que precisam de mais clareza, resultado e presença forte em Diadema/SP.",
+      "intent": "qualificação",
+      "voice_style": "natural"
+    },
+    {
+      "question": "Quais serviços a Garagem de Luxo oferece?",
+      "answer": "A Garagem de Luxo trabalha com soluções como Lavagem Técnica, estruturando atendimento e proposta conforme o contexto do projeto.",
+      "intent": "comercial",
+      "voice_style": "natural"
+    },
+    {
+      "question": "Como contratar a Garagem de Luxo?",
+      "answer": "O primeiro passo é entrar em contato, explicar o objetivo e receber uma orientação inicial sobre a melhor estratégia.",
+      "intent": "conversão",
+      "voice_style": "natural"
+    },
+    {
+      "question": "A Garagem de Luxo atende em Diadema/SP?",
+      "answer": "Sim. A operação considera o contexto geográfico principal do projeto e adapta a comunicação para o público mais relevante.",
+      "intent": "geolocalização",
+      "voice_style": "natural"
+    },
+    {
+      "question": "Quanto tempo leva para ver evolução com a Garagem de Luxo?",
+      "answer": "O tempo varia conforme a base atual do projeto, a concorrência e a consistência da execução, mas a estrutura correta acelera a construção de autoridade.",
+      "intent": "objeção",
+      "voice_style": "natural"
+    },
+    {
+      "question": "Por que escolher a Garagem de Luxo em vez de uma solução genérica?",
+      "answer": "A Garagem de Luxo combina posicionamento, clareza semântica e execução orientada a contexto, evitando conteúdo solto e estratégia superficial.",
+      "intent": "objeção",
+      "voice_style": "natural"
+    },
+    {
+      "question": "Qual é o diferencial da Garagem de Luxo?",
+      "answer": "O diferencial está em unir estratégia, contexto do negócio e estrutura pronta para busca, descoberta e conversão.",
+      "intent": "diferencial",
+      "voice_style": "natural"
+    }
+  ],
+  "geo_pages": [
+    {
+      "location": "Diadema/SP",
+      "slug": "/diadema",
+      "title": "Estética Automotiva em Diadema | Garagem de Luxo",
+      "description": "O principal centro de detalhamento automotivo de Diadema. Traga seu veículo de luxo para a Garagem de Luxo.",
+      "primary_keyword": "estética automotiva Diadema",
+      "local_entities": [
+        "Prefeitura de Diadema",
+        "Centro de Diadema",
+        "Rodovia dos Imigrantes"
+      ]
+    },
+    {
+      "location": "ABC Paulista",
+      "slug": "/abc-paulista",
+      "title": "Detalhamento Automotivo no ABC Paulista | Premium",
+      "description": "Atendimento exclusivo para proprietários de veículos de luxo de Santo André, São Bernardo e São Caetano no nosso estúdio no ABC.",
+      "primary_keyword": "detalhamento automotivo ABC Paulista",
+      "local_entities": [
+        "Santo André",
+        "São Bernardo do Campo",
+        "São Caetano do Sul",
+        "Região do Grande ABC"
+      ]
+    },
+    {
+      "location": "São Paulo/SP",
+      "slug": "/sao-paulo",
+      "title": "Lavagem Técnica e Estética Automotiva para São Paulo",
+      "description": "A poucos minutos da Zona Sul de SP, oferecemos serviços de estética automotiva inigualáveis para veículos de alto padrão.",
+      "primary_keyword": "estética automotiva São Paulo",
+      "local_entities": [
+        "Zona Sul SP",
+        "Morumbi",
+        "Jardins",
+        "Cidade de São Paulo"
+      ]
+    }
+  ],
+  "internal_links": [
+    {
+      "from": "/",
+      "to": "/servicos",
+      "anchor": "serviços de estética automotiva",
+      "reason": "Distribuir autoridade da home para páginas estratégicas."
+    },
+    {
+      "from": "/",
+      "to": "/lavagem-tecnica",
+      "anchor": "lavagem técnica automotiva",
+      "reason": "Distribuir autoridade da home para páginas estratégicas."
+    },
+    {
+      "from": "/",
+      "to": "/faq",
+      "anchor": "dúvidas estética automotiva",
+      "reason": "Distribuir autoridade da home para páginas estratégicas."
+    },
+    {
+      "from": "/",
+      "to": "/contato",
+      "anchor": "contato estética automotiva",
+      "reason": "Distribuir autoridade da home para páginas estratégicas."
+    },
+    {
+      "from": "/servicos",
+      "to": "/lavagem-tecnica",
+      "anchor": "lavagem técnica automotiva",
+      "reason": "Conectar hub de serviços às páginas comerciais."
+    },
+    {
+      "from": "/faq",
+      "to": "/contato",
+      "anchor": "falar com especialista",
+      "reason": "Transformar dúvidas resolvidas em conversão."
+    },
+    {
+      "from": "/",
+      "to": "/contato",
+      "anchor": "falar com especialista",
+      "reason": "Conduzir páginas estratégicas para conversão."
+    },
+    {
+      "from": "/servicos",
+      "to": "/contato",
+      "anchor": "falar com especialista",
+      "reason": "Conduzir páginas estratégicas para conversão."
+    },
+    {
+      "from": "/lavagem-tecnica",
+      "to": "/contato",
+      "anchor": "falar com especialista",
+      "reason": "Conduzir páginas estratégicas para conversão."
+    },
+    {
+      "from": "/lavagem-tecnica",
+      "to": "/faq",
+      "anchor": "dúvidas estética automotiva",
+      "reason": "Criar continuidade semântica entre páginas estratégicas."
+    },
+    {
+      "from": "/faq",
+      "to": "/contato",
+      "anchor": "contato estética automotiva",
+      "reason": "Criar continuidade semântica entre páginas estratégicas."
+    }
+  ],
+  "schema_graph": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://www.garagemdeluxo.com.br#organization",
+        "name": "Garagem de Luxo",
+        "url": "https://www.garagemdeluxo.com.br",
+        "description": "Centro de estética automotiva premium especializado em lavagem técnica e detalhamento em Diadema e ABC Paulista. Agende um serviço exclusivo para seu veículo."
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://www.garagemdeluxo.com.br#website",
+        "url": "https://www.garagemdeluxo.com.br",
+        "name": "Garagem de Luxo",
+        "publisher": {
+          "@id": "https://www.garagemdeluxo.com.br#organization"
+        },
+        "inLanguage": "pt-BR"
+      },
+      {
+        "@type": "LocalBusiness",
+        "@id": "https://www.garagemdeluxo.com.br#localbusiness",
+        "name": "Garagem de Luxo",
+        "url": "https://www.garagemdeluxo.com.br",
+        "areaServed": "Diadema/SP",
+        "description": "Centro de estética automotiva premium especializado em lavagem técnica e detalhamento em Diadema e ABC Paulista. Agende um serviço exclusivo para seu veículo."
+      },
+      {
+        "@type": "Service",
+        "@id": "https://www.garagemdeluxo.com.br#service-1",
+        "name": "Lavagem Técnica",
+        "provider": {
+          "@id": "https://www.garagemdeluxo.com.br#organization"
+        },
+        "areaServed": "Diadema/SP"
+      },
+      {
+        "@type": "Service",
+        "@id": "https://www.garagemdeluxo.com.br#service-2",
+        "name": "Detalhamento Automotivo",
+        "provider": {
+          "@id": "https://www.garagemdeluxo.com.br#organization"
+        },
+        "areaServed": "Diadema/SP"
+      },
+      {
+        "@type": "Service",
+        "@id": "https://www.garagemdeluxo.com.br#service-3",
+        "name": "Vitrificação de Pintura",
+        "provider": {
+          "@id": "https://www.garagemdeluxo.com.br#organization"
+        },
+        "areaServed": "Diadema/SP"
+      },
+      {
+        "@type": "Service",
+        "@id": "https://www.garagemdeluxo.com.br#service-4",
+        "name": "Polimento Técnico",
+        "provider": {
+          "@id": "https://www.garagemdeluxo.com.br#organization"
+        },
+        "areaServed": "Diadema/SP"
+      },
+      {
+        "@type": "Service",
+        "@id": "https://www.garagemdeluxo.com.br#service-5",
+        "name": "Higienização Interna Premium",
+        "provider": {
+          "@id": "https://www.garagemdeluxo.com.br#organization"
+        },
+        "areaServed": "Diadema/SP"
+      },
+      {
+        "@type": "AutoWash",
+        "@id": "https://www.garagemdeluxo.com.br/#localbusiness",
+        "name": "Garagem de Luxo",
+        "url": "https://www.garagemdeluxo.com.br",
+        "logo": "https://www.garagemdeluxo.com.br/logo.png",
+        "image": "https://www.garagemdeluxo.com.br/fachada.jpg",
+        "description": "Estética automotiva premium e lavagem técnica especializada para veículos de luxo em Diadema e ABC Paulista.",
+        "telephone": "+5511999999999",
+        "priceRange": "$$$",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Rua Exemplo Premium, 100",
+          "addressLocality": "Diadema",
+          "addressRegion": "SP",
+          "postalCode": "09900-000",
+          "addressCountry": "BR"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "-23.681531",
+          "longitude": "-46.620456"
+        },
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          }
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://www.garagemdeluxo.com.br/#website",
+        "url": "https://www.garagemdeluxo.com.br",
+        "name": "Garagem de Luxo",
+        "publisher": {
+          "@id": "https://www.garagemdeluxo.com.br/#localbusiness"
+        }
+      }
+    ]
+  },
+  "content_briefs": [
+    {
+      "slug": "/",
+      "goal": "navegacional, comercial",
+      "outline": [
+        "O Cuidado Premium que Seu Veículo de Luxo Merece",
+        "Problema principal do usuário",
+        "Solução oferecida",
+        "Provas, diferenciais e contexto",
+        "Perguntas frequentes",
+        "CTA final"
+      ],
+      "pain_points": [
+        "baixa visibilidade",
+        "site fraco em conversão",
+        "presença orgânica limitada"
+      ],
+      "proof_points": [
+        "estrutura técnica",
+        "clareza de proposta",
+        "conteúdo orientado a intenção"
+      ],
+      "cta": "Agende uma Avaliação Premium"
+    },
+    {
+      "slug": "/servicos",
+      "goal": "informativo, comercial",
+      "outline": [
+        "Serviços de Estética Automotiva de Alta Performance",
+        "Problema principal do usuário",
+        "Solução oferecida",
+        "Provas, diferenciais e contexto",
+        "Perguntas frequentes",
+        "CTA final"
+      ],
+      "pain_points": [
+        "baixa visibilidade",
+        "site fraco em conversão",
+        "presença orgânica limitada"
+      ],
+      "proof_points": [
+        "estrutura técnica",
+        "clareza de proposta",
+        "conteúdo orientado a intenção"
+      ],
+      "cta": "Fale com um Especialista"
+    },
+    {
+      "slug": "/lavagem-tecnica",
+      "goal": "comercial, transacional",
+      "outline": [
+        "Lavagem Técnica Premium: Precisão e Cuidado Absoluto",
+        "Problema principal do usuário",
+        "Solução oferecida",
+        "Provas, diferenciais e contexto",
+        "Perguntas frequentes",
+        "CTA final"
+      ],
+      "pain_points": [
+        "baixa visibilidade",
+        "site fraco em conversão",
+        "presença orgânica limitada"
+      ],
+      "proof_points": [
+        "estrutura técnica",
+        "clareza de proposta",
+        "conteúdo orientado a intenção"
+      ],
+      "cta": "Agende sua Lavagem Técnica"
+    },
+    {
+      "slug": "/faq",
+      "goal": "informativo",
+      "outline": [
+        "Perguntas Frequentes sobre Estética Premium",
+        "Problema principal do usuário",
+        "Solução oferecida",
+        "Provas, diferenciais e contexto",
+        "Perguntas frequentes",
+        "CTA final"
+      ],
+      "pain_points": [
+        "baixa visibilidade",
+        "site fraco em conversão",
+        "presença orgânica limitada"
+      ],
+      "proof_points": [
+        "estrutura técnica",
+        "clareza de proposta",
+        "conteúdo orientado a intenção"
+      ],
+      "cta": "Não encontrou sua resposta? Chame no WhatsApp"
+    },
+    {
+      "slug": "/contato",
+      "goal": "transacional, navegacional",
+      "outline": [
+        "Agende o Cuidado do seu Veículo",
+        "Problema principal do usuário",
+        "Solução oferecida",
+        "Provas, diferenciais e contexto",
+        "Perguntas frequentes",
+        "CTA final"
+      ],
+      "pain_points": [
+        "baixa visibilidade",
+        "site fraco em conversão",
+        "presença orgânica limitada"
+      ],
+      "proof_points": [
+        "estrutura técnica",
+        "clareza de proposta",
+        "conteúdo orientado a intenção"
+      ],
+      "cta": "Iniciar Conversa no WhatsApp"
+    }
+  ],
+  "quality_report": {
+    "coverage_score": 100,
+    "aeo_score": 100,
+    "geo_score": 100,
+    "entity_consistency_score": 100,
+    "notes": []
+  }
+}

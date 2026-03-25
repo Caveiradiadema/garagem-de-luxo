@@ -1,0 +1,410 @@
+{
+  "engine_version": "ANGEL-SAG-ENGINE-v2.0.0",
+  "generated_at": "2026-03-23T16:10:41.683437",
+  "project": {
+    "name": "Garagem de Luxo",
+    "slug": "garagem-de-luxo",
+    "niche": "Estética automotiva e Lava rápido",
+    "entity": "Garagem de Luxo",
+    "geo_primary": "Centro de Diadema",
+    "geo_secondary": [],
+    "audience": [
+      "Proprietários de veículos de luxo",
+      "Entusiastas automotivos",
+      "Moradores de Diadema e região"
+    ],
+    "services": [
+      "Soluções de estética automotiva",
+      "Lavagem de carros de luxo",
+      "Polimento",
+      "Enceramento",
+      "Higienização interna",
+      "Proteção de pintura"
+    ],
+    "brand_tone": "Profissional",
+    "value_proposition": "Elevamos o padrão de cuidado automotivo com serviços de excelência e atenção aos detalhes, garantindo que seu veículo de luxo brilhe como novo."
+  },
+  "site_metadata": {
+    "title_default": "Garagem de Luxo - Estética Automotiva Premium em Diadema",
+    "title_template": "%s | Garagem de Luxo",
+    "description_default": "Descubra a Garagem de Luxo, seu centro de estética automotiva de elite no Centro de Diadema. Serviços de lavagem, polimento, enceramento e mais para veículos de alto padrão.",
+    "keywords_primary": [
+      "Garagem de Luxo",
+      "Estética automotiva Diadema",
+      "Lava rápido premium Diadema",
+      "Polimento Diadema",
+      "Enceramento automotivo Diadema",
+      "Cuidados com carros de luxo"
+    ],
+    "keywords_secondary": [
+      "Detailing automotivo",
+      "Lavagem detalhada",
+      "Proteção de pintura",
+      "Higienização automotiva",
+      "Centro de Diadema serviços",
+      "Carros de luxo Diadema"
+    ],
+    "entities": [
+      "Garagem de Luxo",
+      "Centro de Diadema",
+      "Estética automotiva",
+      "Lava rápido"
+    ],
+    "canonical_base": "https://garagem-de-luxo.vercel.app",
+    "language": "pt-BR"
+  },
+  "route_metadata": [
+    {
+      "slug": "/",
+      "type": "homepage",
+      "search_intent": "informacional",
+      "title": "Garagem de Luxo: Estética Automotiva Premium no Centro de Diadema",
+      "description": "Bem-vindo à Garagem de Luxo, o destino principal para estética automotiva de elite no Centro de Diadema. Oferecemos serviços incomparáveis para manter seu veículo de luxo impecável.",
+      "h1": "Garagem de Luxo: O Brilho do Seu Veículo de Elite",
+      "primary_keyword": "Garagem de Luxo",
+      "secondary_keywords": [
+        "Estética automotiva",
+        "Lava rápido premium",
+        "Centro de Diadema"
+      ],
+      "questions_to_answer": [
+        "Quais serviços de estética automotiva a Garagem de Luxo oferece?",
+        "Onde fica a Garagem de Luxo?",
+        "Por que escolher a Garagem de Luxo para o meu carro de luxo?"
+      ],
+      "cta": "Agende seu serviço e sinta a diferença!",
+      "schema_types": [
+        "Organization",
+        "LocalBusiness",
+        "Service"
+      ]
+    }
+  ],
+  "faq_aeo": [
+    {
+      "question": "O que a Garagem de Luxo faz?",
+      "answer": "A Garagem de Luxo atua com foco em Estética automotiva e Lava rápido, oferecendo soluções alinhadas às necessidades reais do público.",
+      "intent": "entendimento",
+      "voice_style": "natural"
+    },
+    {
+      "question": "Para quem a Garagem de Luxo é indicada?",
+      "answer": "A Garagem de Luxo atende pessoas e empresas que precisam de mais clareza, resultado e presença forte em Centro de Diadema.",
+      "intent": "qualificação",
+      "voice_style": "natural"
+    },
+    {
+      "question": "Quais serviços a Garagem de Luxo oferece?",
+      "answer": "A Garagem de Luxo trabalha com soluções como Soluções de estética automotiva, estruturando atendimento e proposta conforme o contexto do projeto.",
+      "intent": "comercial",
+      "voice_style": "natural"
+    },
+    {
+      "question": "Como contratar a Garagem de Luxo?",
+      "answer": "O primeiro passo é entrar em contato, explicar o objetivo e receber uma orientação inicial sobre a melhor estratégia.",
+      "intent": "conversão",
+      "voice_style": "natural"
+    },
+    {
+      "question": "A Garagem de Luxo atende em Centro de Diadema?",
+      "answer": "Sim. A operação considera o contexto geográfico principal do projeto e adapta a comunicação para o público mais relevante.",
+      "intent": "geolocalização",
+      "voice_style": "natural"
+    },
+    {
+      "question": "Quanto tempo leva para ver evolução com a Garagem de Luxo?",
+      "answer": "O tempo varia conforme a base atual do projeto, a concorrência e a consistência da execução, mas a estrutura correta acelera a construção de autoridade.",
+      "intent": "objeção",
+      "voice_style": "natural"
+    },
+    {
+      "question": "Por que escolher a Garagem de Luxo em vez de uma solução genérica?",
+      "answer": "A Garagem de Luxo combina posicionamento, clareza semântica e execução orientada a contexto, evitando conteúdo solto e estratégia superficial.",
+      "intent": "objeção",
+      "voice_style": "natural"
+    },
+    {
+      "question": "Qual é o diferencial da Garagem de Luxo?",
+      "answer": "O diferencial está em unir estratégia, contexto do negócio e estrutura pronta para busca, descoberta e conversão.",
+      "intent": "diferencial",
+      "voice_style": "natural"
+    }
+  ],
+  "geo_pages": [
+    {
+      "location": "Centro de Diadema",
+      "slug": "/centro-de-diadema",
+      "title": "Estética Automotiva e Lava Rápido Premium no Centro de Diadema | Garagem de Luxo",
+      "description": "Garagem de Luxo: Sua referência em estética automotiva e lava rápido de alta qualidade no coração do Centro de Diadema. Serviço especializado para veículos de luxo.",
+      "primary_keyword": "Estética automotiva Centro de Diadema",
+      "local_entities": [
+        "Garagem de Luxo",
+        "Centro de Diadema",
+        "Estética automotiva",
+        "Lava rápido",
+        "Serviços automotivos"
+      ]
+    }
+  ],
+  "internal_links": [],
+  "schema_graph": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://garagem-de-luxo.vercel.app#organization",
+        "name": "Garagem de Luxo",
+        "url": "https://garagem-de-luxo.vercel.app",
+        "description": "Garagem de Luxo: O Brilho do Seu Veículo de Elite. Estética automotiva premium no Centro de Diadema.",
+        "logo": "https://garagem-de-luxo.vercel.app/logo.png",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+5511999999999",
+          "contactType": "Customer Service",
+          "areaServed": "Diadema"
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Rua Exemplo, 123",
+          "addressLocality": "Diadema",
+          "addressRegion": "SP",
+          "postalCode": "09900-000",
+          "addressCountry": "BR"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": -23.6827,
+          "longitude": -46.5926
+        }
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://garagem-de-luxo.vercel.app#website",
+        "url": "https://garagem-de-luxo.vercel.app",
+        "name": "Garagem de Luxo",
+        "publisher": {
+          "@id": "https://garagem-de-luxo.vercel.app#organization"
+        },
+        "inLanguage": "pt-BR"
+      },
+      {
+        "@type": "LocalBusiness",
+        "@id": "https://garagem-de-luxo.vercel.app#localbusiness",
+        "name": "Garagem de Luxo",
+        "url": "https://garagem-de-luxo.vercel.app",
+        "areaServed": "Centro de Diadema",
+        "description": "Serviços de estética automotiva e lava rápido de alta qualidade no Centro de Diadema.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Rua Exemplo, 123",
+          "addressLocality": "Diadema",
+          "addressRegion": "SP",
+          "postalCode": "09900-000",
+          "addressCountry": "BR"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": -23.6827,
+          "longitude": -46.5926
+        },
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "09:00",
+            "closes": "18:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": "Saturday",
+            "opens": "09:00",
+            "closes": "13:00"
+          }
+        ],
+        "servesCuisine": "Estética automotiva e Lava rápido",
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Serviços",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Lavagem Premium",
+                "description": "Limpeza externa completa com produtos de alta qualidade."
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Polimento Técnico",
+                "description": "Restauração do brilho e remoção de riscos superficiais."
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Enceramento Protetor",
+                "description": "Aplicação de cera de alta performance para brilho e proteção."
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Higienização Interna",
+                "description": "Limpeza profunda e detalhada do interior do veículo."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "Service",
+        "@id": "https://garagem-de-luxo.vercel.app#service-1",
+        "name": "Soluções de estética automotiva",
+        "provider": {
+          "@id": "https://garagem-de-luxo.vercel.app#organization"
+        },
+        "areaServed": "Centro de Diadema"
+      },
+      {
+        "@type": "Service",
+        "@id": "https://garagem-de-luxo.vercel.app#service-2",
+        "name": "Lavagem de carros de luxo",
+        "provider": {
+          "@id": "https://garagem-de-luxo.vercel.app#organization"
+        },
+        "areaServed": "Centro de Diadema"
+      },
+      {
+        "@type": "Service",
+        "@id": "https://garagem-de-luxo.vercel.app#service-3",
+        "name": "Polimento",
+        "provider": {
+          "@id": "https://garagem-de-luxo.vercel.app#organization"
+        },
+        "areaServed": "Centro de Diadema"
+      },
+      {
+        "@type": "Service",
+        "@id": "https://garagem-de-luxo.vercel.app#service-4",
+        "name": "Enceramento",
+        "provider": {
+          "@id": "https://garagem-de-luxo.vercel.app#organization"
+        },
+        "areaServed": "Centro de Diadema"
+      },
+      {
+        "@type": "Service",
+        "@id": "https://garagem-de-luxo.vercel.app#service-5",
+        "name": "Higienização interna",
+        "provider": {
+          "@id": "https://garagem-de-luxo.vercel.app#organization"
+        },
+        "areaServed": "Centro de Diadema"
+      },
+      {
+        "@type": "Service",
+        "@id": "https://garagem-de-luxo.vercel.app#service-6",
+        "name": "Proteção de pintura",
+        "provider": {
+          "@id": "https://garagem-de-luxo.vercel.app#organization"
+        },
+        "areaServed": "Centro de Diadema"
+      },
+      {
+        "@type": "Service",
+        "@id": "https://garagem-de-luxo.vercel.app/centro-de-diadema#service",
+        "name": "Estética Automotiva no Centro de Diadema",
+        "description": "Serviços especializados de estética automotiva e lava rápido para veículos de luxo no Centro de Diadema.",
+        "provider": {
+          "@id": "https://garagem-de-luxo.vercel.app#localbusiness"
+        },
+        "areaServed": [
+          {
+            "@type": "Place",
+            "name": "Centro de Diadema",
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -23.6827,
+              "longitude": -46.5926
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "content_briefs": [
+    {
+      "slug": "/",
+      "goal": "informacional",
+      "outline": [
+        "Garagem de Luxo: O Brilho do Seu Veículo de Elite",
+        "Problema principal do usuário",
+        "Solução oferegada",
+        "Provas, diferenciais e contexto",
+        "Perguntas frequentes",
+        "CTA final"
+      ],
+      "pain_points": [
+        "baixa visibilidade",
+        "site fraco em conversão",
+        "presença orgânica limitada"
+      ],
+      "proof_points": [
+        "estrutura técnica",
+        "clareza de proposta",
+        "conteúdo orientado a intenção"
+      ],
+      "cta": "Agende seu serviço e sinta a diferença!"
+    }
+  ],
+  "quality_report": {
+    "coverage_score": 70,
+    "aeo_score": 100,
+    "geo_score": 100,
+    "entity_consistency_score": 100,
+    "notes": [
+      "Links internos podem ser aprofundados."
+    ]
+  },
+  "visual_action_checklist": [
+    {
+      "route": "/",
+      "priority": "Alta",
+      "issue": "Falta de um banner visual impactante com a proposta de valor.",
+      "action": "Desenvolver e implementar um banner de alta qualidade na hero section que comunique luxo e excelência.",
+      "why": "A primeira impressão é crucial para um negócio de luxo e ajuda a capturar a atenção do usuário imediatamente."
+    },
+    {
+      "route": "/",
+      "priority": "Média",
+      "issue": "Seção de serviços genérica.",
+      "action": "Criar cards visuais distintos para cada tipo de serviço principal (lavagem, polimento, etc.) com ícones ou imagens representativas.",
+      "why": "Melhora a compreensão e o apelo visual dos serviços oferecidos."
+    },
+    {
+      "route": "/centro-de-diadema",
+      "priority": "Alta",
+      "issue": "Mapa de localização não visível ou interativo.",
+      "action": "Integrar um mapa interativo do Google Maps na página, mostrando a localização exata do 'Centro de Diadema'.",
+      "why": "Facilita a navegação e o deslocamento dos clientes locais."
+    },
+    {
+      "route": "/",
+      "priority": "Baixa",
+      "issue": "Imagens de veículos genéricas.",
+      "action": "Substituir imagens de stock por fotos de alta resolução de veículos que foram atendidos na Garagem de Luxo, mostrando os resultados.",
+      "why": "Aumenta a autenticidade e a confiança, demonstrando o trabalho real."
+    }
+  ]
+}

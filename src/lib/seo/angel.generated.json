@@ -1,0 +1,438 @@
+{
+  "engine_version": "AngelSAG-MONSTER-ENGINE-v1.0.0",
+  "generated_at": "2026-03-12T17:42:25.265829",
+  "project": {
+    "name": "garagem",
+    "slug": "garagem",
+    "niche": "professional services",
+    "entity": "garagem",
+    "geo_primary": "Brazil",
+    "geo_secondary": [
+      "São Paulo/SP"
+    ],
+    "audience": [],
+    "services": [
+      "professional services"
+    ],
+    "brand_tone": "modern, reliable",
+    "value_proposition": ""
+  },
+  "site_metadata": {
+    "title_default": "garagem",
+    "title_template": "%s | garagem",
+    "description_default": "garagem focused on professional services.",
+    "keywords_primary": [],
+    "keywords_secondary": [],
+    "entities": [
+      "garagem",
+      "professional services"
+    ],
+    "canonical_base": "https://www.garagem.com",
+    "language": "en"
+  },
+  "route_metadata": [
+    {
+      "slug": "/",
+      "type": "home",
+      "search_intent": "homepage",
+      "title": "garagem | Homepage",
+      "description": "garagem focused on homepage.",
+      "h1": "garagem",
+      "primary_keyword": "garagem home",
+      "secondary_keywords": [
+        "professional services"
+      ],
+      "questions_to_answer": [],
+      "cta": "Contact us now for a strategic evaluation.",
+      "schema_types": [
+        "BreadcrumbList",
+        "LocalBusiness",
+        "WebPage"
+      ]
+    },
+    {
+      "slug": "/services",
+      "type": "service_hub",
+      "search_intent": "services",
+      "title": "garagem | Services",
+      "description": "garagem focused on services.",
+      "h1": "garagem",
+      "primary_keyword": "garagem service_hub",
+      "secondary_keywords": [
+        "professional services"
+      ],
+      "questions_to_answer": [],
+      "cta": "Contact us now for a strategic evaluation.",
+      "schema_types": [
+        "BreadcrumbList",
+        "CollectionPage",
+        "LocalBusiness",
+        "WebPage"
+      ]
+    },
+    {
+      "slug": "/about",
+      "type": "about",
+      "search_intent": "authority",
+      "title": "garagem | Authority",
+      "description": "garagem focused on authority.",
+      "h1": "garagem",
+      "primary_keyword": "garagem about",
+      "secondary_keywords": [
+        "professional services"
+      ],
+      "questions_to_answer": [],
+      "cta": "Contact us now for a strategic evaluation.",
+      "schema_types": [
+        "BreadcrumbList",
+        "LocalBusiness",
+        "WebPage"
+      ]
+    },
+    {
+      "slug": "/contact",
+      "type": "contact",
+      "search_intent": "leads",
+      "title": "garagem | Leads",
+      "description": "garagem focused on leads.",
+      "h1": "garagem",
+      "primary_keyword": "garagem contact",
+      "secondary_keywords": [
+        "professional services"
+      ],
+      "questions_to_answer": [],
+      "cta": "Contact us now for a strategic evaluation.",
+      "schema_types": [
+        "BreadcrumbList",
+        "ContactPage",
+        "LocalBusiness",
+        "WebPage"
+      ]
+    },
+    {
+      "slug": "/faq",
+      "type": "faq",
+      "search_intent": "AEO",
+      "title": "garagem | Aeo",
+      "description": "garagem focused on AEO.",
+      "h1": "garagem",
+      "primary_keyword": "garagem faq",
+      "secondary_keywords": [
+        "professional services"
+      ],
+      "questions_to_answer": [],
+      "cta": "Contact us now for a strategic evaluation.",
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "LocalBusiness",
+        "WebPage"
+      ]
+    }
+  ],
+  "faq_aeo": [
+    {
+      "question": "What does garagem do?",
+      "answer": "garagem focuses on professional services, delivering solutions aligned with real audience needs.",
+      "intent": "understanding",
+      "voice_style": "natural"
+    },
+    {
+      "question": "Who is garagem for?",
+      "answer": "garagem serves people and businesses that need more clarity, results, and stronger presence in Brazil.",
+      "intent": "qualification",
+      "voice_style": "natural"
+    },
+    {
+      "question": "What services does garagem offer?",
+      "answer": "garagem offers solutions such as professional services, adapting strategy and execution to the project context.",
+      "intent": "commercial",
+      "voice_style": "natural"
+    },
+    {
+      "question": "How can I hire garagem?",
+      "answer": "The first step is to get in touch, explain your goal, and receive an initial recommendation on the best strategy.",
+      "intent": "conversion",
+      "voice_style": "natural"
+    },
+    {
+      "question": "Does garagem serve Brazil?",
+      "answer": "Yes. The operation considers the project's primary geographic context and adapts communication to the most relevant audience.",
+      "intent": "geolocation",
+      "voice_style": "natural"
+    },
+    {
+      "question": "How long does it take to see progress with garagem?",
+      "answer": "The timeline depends on the current foundation, competition, and execution consistency, but the right structure accelerates authority building.",
+      "intent": "objection",
+      "voice_style": "natural"
+    },
+    {
+      "question": "Why choose garagem instead of a generic solution?",
+      "answer": "garagem combines positioning, semantic clarity, and context-aware execution, avoiding shallow strategy and disconnected content.",
+      "intent": "objection",
+      "voice_style": "natural"
+    },
+    {
+      "question": "What makes garagem different?",
+      "answer": "The difference comes from combining strategy, business context, and a structure ready for search, discovery, and conversion.",
+      "intent": "differentiator",
+      "voice_style": "natural"
+    }
+  ],
+  "geo_pages": [
+    {
+      "location": "Brazil",
+      "slug": "/brasil",
+      "title": "garagem in Brazil | professional services",
+      "description": "Discover garagem in Brazil, with strategy focused on SEO, GEO, and AEO.",
+      "primary_keyword": "garagem Brazil",
+      "local_entities": [
+        "Brazil",
+        "garagem"
+      ]
+    },
+    {
+      "location": "São Paulo/SP",
+      "slug": "/sao-paulo",
+      "title": "garagem in São Paulo/SP | professional services",
+      "description": "Discover garagem in São Paulo/SP, with strategy focused on SEO, GEO, and AEO.",
+      "primary_keyword": "garagem São Paulo/SP",
+      "local_entities": [
+        "São Paulo/SP",
+        "garagem"
+      ]
+    }
+  ],
+  "internal_links": [
+    {
+      "from": "/",
+      "to": "/services",
+      "anchor": "garagem service_hub",
+      "reason": "Distribute homepage authority to strategic pages."
+    },
+    {
+      "from": "/",
+      "to": "/about",
+      "anchor": "garagem about",
+      "reason": "Distribute homepage authority to strategic pages."
+    },
+    {
+      "from": "/",
+      "to": "/contact",
+      "anchor": "garagem contact",
+      "reason": "Distribute homepage authority to strategic pages."
+    },
+    {
+      "from": "/",
+      "to": "/faq",
+      "anchor": "garagem faq",
+      "reason": "Distribute homepage authority to strategic pages."
+    },
+    {
+      "from": "/faq",
+      "to": "/contact",
+      "anchor": "talk to a specialist",
+      "reason": "Turn resolved questions into conversion."
+    },
+    {
+      "from": "/",
+      "to": "/contact",
+      "anchor": "talk to a specialist",
+      "reason": "Drive strategic pages toward conversion."
+    },
+    {
+      "from": "/services",
+      "to": "/contact",
+      "anchor": "talk to a specialist",
+      "reason": "Drive strategic pages toward conversion."
+    },
+    {
+      "from": "/about",
+      "to": "/contact",
+      "anchor": "talk to a specialist",
+      "reason": "Drive strategic pages toward conversion."
+    },
+    {
+      "from": "/services",
+      "to": "/about",
+      "anchor": "garagem about",
+      "reason": "Create semantic continuity between strategic pages."
+    },
+    {
+      "from": "/about",
+      "to": "/contact",
+      "anchor": "garagem contact",
+      "reason": "Create semantic continuity between strategic pages."
+    },
+    {
+      "from": "/contact",
+      "to": "/faq",
+      "anchor": "garagem faq",
+      "reason": "Create semantic continuity between strategic pages."
+    }
+  ],
+  "schema_graph": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://www.garagem.com#organization",
+        "name": "garagem",
+        "url": "https://www.garagem.com",
+        "description": "garagem focused on professional services."
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://www.garagem.com#website",
+        "url": "https://www.garagem.com",
+        "name": "garagem",
+        "publisher": {
+          "@id": "https://www.garagem.com#organization"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@type": "LocalBusiness",
+        "@id": "https://www.garagem.com#localbusiness",
+        "name": "garagem",
+        "url": "https://www.garagem.com",
+        "areaServed": "Brazil",
+        "description": "garagem focused on professional services."
+      },
+      {
+        "@type": "Service",
+        "@id": "https://www.garagem.com#service-1",
+        "name": "professional services",
+        "provider": {
+          "@id": "https://www.garagem.com#organization"
+        },
+        "areaServed": "Brazil"
+      }
+    ]
+  },
+  "content_briefs": [
+    {
+      "slug": "/",
+      "goal": "homepage",
+      "outline": [
+        "garagem",
+        "Primary user problem",
+        "Offered solution",
+        "Proof, differentiators, and context",
+        "Frequently asked questions",
+        "Final CTA"
+      ],
+      "pain_points": [
+        "low visibility",
+        "weak conversion",
+        "limited organic presence"
+      ],
+      "proof_points": [
+        "technical structure",
+        "clear positioning",
+        "intent-driven content"
+      ],
+      "cta": "Contact us now for a strategic evaluation."
+    },
+    {
+      "slug": "/services",
+      "goal": "services",
+      "outline": [
+        "garagem",
+        "Primary user problem",
+        "Offered solution",
+        "Proof, differentiators, and context",
+        "Frequently asked questions",
+        "Final CTA"
+      ],
+      "pain_points": [
+        "low visibility",
+        "weak conversion",
+        "limited organic presence"
+      ],
+      "proof_points": [
+        "technical structure",
+        "clear positioning",
+        "intent-driven content"
+      ],
+      "cta": "Contact us now for a strategic evaluation."
+    },
+    {
+      "slug": "/about",
+      "goal": "authority",
+      "outline": [
+        "garagem",
+        "Primary user problem",
+        "Offered solution",
+        "Proof, differentiators, and context",
+        "Frequently asked questions",
+        "Final CTA"
+      ],
+      "pain_points": [
+        "low visibility",
+        "weak conversion",
+        "limited organic presence"
+      ],
+      "proof_points": [
+        "technical structure",
+        "clear positioning",
+        "intent-driven content"
+      ],
+      "cta": "Contact us now for a strategic evaluation."
+    },
+    {
+      "slug": "/contact",
+      "goal": "leads",
+      "outline": [
+        "garagem",
+        "Primary user problem",
+        "Offered solution",
+        "Proof, differentiators, and context",
+        "Frequently asked questions",
+        "Final CTA"
+      ],
+      "pain_points": [
+        "low visibility",
+        "weak conversion",
+        "limited organic presence"
+      ],
+      "proof_points": [
+        "technical structure",
+        "clear positioning",
+        "intent-driven content"
+      ],
+      "cta": "Contact us now for a strategic evaluation."
+    },
+    {
+      "slug": "/faq",
+      "goal": "AEO",
+      "outline": [
+        "garagem",
+        "Primary user problem",
+        "Offered solution",
+        "Proof, differentiators, and context",
+        "Frequently asked questions",
+        "Final CTA"
+      ],
+      "pain_points": [
+        "low visibility",
+        "weak conversion",
+        "limited organic presence"
+      ],
+      "proof_points": [
+        "technical structure",
+        "clear positioning",
+        "intent-driven content"
+      ],
+      "cta": "Contact us now for a strategic evaluation."
+    }
+  ],
+  "quality_report": {
+    "coverage_score": 100,
+    "aeo_score": 100,
+    "geo_score": 100,
+    "entity_consistency_score": 100,
+    "notes": []
+  }
+}
