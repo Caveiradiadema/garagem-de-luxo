@@ -111,7 +111,7 @@ export default function Home() {
                 </a>
 
                 <a
-                  href="#servicos"
+                  href="/#servicos"
                   className="rounded-full border border-white/15 bg-white/5 px-6 py-3 font-semibold text-white transition hover:bg-white/10"
                 >
                   Ver serviços
@@ -192,16 +192,23 @@ export default function Home() {
           animate="visible"
           className="grid gap-6 md:grid-cols-2 xl:grid-cols-3"
         >
-          {servicos.map((s) => (
-            <motion.article
-              key={s.t}
-              variants={itemVariants}
-              className="rounded-[2rem] border border-white/10 bg-white/[0.03] p-7"
-            >
-              <h3 className="text-2xl font-bold text-white">{s.t}</h3>
-              <p className="mt-4 leading-7 text-zinc-300">{s.d}</p>
-            </motion.article>
-          ))}
+          {servicos.map((s) => {
+            const slug = s.t.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, "-");
+            return (
+              <motion.article
+                key={s.t}
+                variants={itemVariants}
+                className="group relative rounded-[2rem] border border-white/10 bg-white/[0.03] p-7 transition-all hover:bg-white/[0.06] hover:border-[#C9A227]/30"
+              >
+                <a href={`/servicos/${slug}`} className="absolute inset-0 z-10" aria-label={s.t} />
+                <div className="flex justify-between items-start mb-4">
+                  <h3 className="text-2xl font-bold text-white group-hover:text-[#E7C65A] transition-colors">{s.t}</h3>
+                  <span className="text-[#C9A227] opacity-0 group-hover:opacity-100 transition-all transform translate-x-2 group-hover:translate-x-0">→</span>
+                </div>
+                <p className="leading-7 text-zinc-400 group-hover:text-zinc-300 transition-colors">{s.d}</p>
+              </motion.article>
+            );
+          })}
         </motion.div>
       </section>
 

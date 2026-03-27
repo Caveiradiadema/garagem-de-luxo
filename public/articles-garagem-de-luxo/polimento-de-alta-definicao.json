@@ -1,0 +1,231 @@
+{
+  "version": "2.0",
+  "id": "67c7409e-029e-4423-9980-6149bb7d133d",
+  "slug": "polimento-de-alta-definicao",
+  "routePath": "/servicos/polimento-de-alta-definicao",
+  "pageType": "service",
+  "status": "draft",
+  "createdAt": "2026-03-26T22:17:51.938Z",
+  "updatedAt": "2026-03-26T22:17:51.938Z",
+  "title": "Polimento de Alta Definição",
+  "intent": "commercial",
+  "seo": {
+    "metaTitle": "Polimento de Alta Definição em Centro de Diadema",
+    "metaDescription": "Dificuldade em encontrar Polimento de Alta Definição de qualidade? Descubra como a Garagem De Luxo resolve com alto padrão.",
+    "keywords": [
+      "Polimento de Alta Definição",
+      "Centro de Diadema",
+      "Garagem De Luxo",
+      "Estética Automotiva Premium",
+      "Polimento de Carros"
+    ],
+    "canonicalUrl": "garagemdeluxo.vercel.app/servicos/polimento-de-alta-definicao",
+    "robots": "index, follow",
+    "openGraph": {
+      "title": "Polimento de Alta Definição em Centro de Diadema - Garagem De Luxo",
+      "description": "Dificuldade em encontrar Polimento de Alta Definição de qualidade? Descubra como a Garagem De Luxo resolve com alto padrão.",
+      "url": "garagemdeluxo.vercel.app/servicos/polimento-de-alta-definicao"
+    },
+    "twitter": {
+      "title": "Polimento de Alta Definição",
+      "description": "Dificuldade em encontrar Polimento de Alta Definição de qualidade? Descubra como a Garagem De Luxo resolve."
+    }
+  },
+  "entities": {
+    "service": "Polimento de Alta Definição",
+    "city": "Centro de Diadema",
+    "audience": "Proprietários de veículos premium",
+    "pains": [
+      "Dificuldade em encontrar Polimento de Alta Definição de qualidade",
+      "Prejuízo estético do veículo",
+      "Perda de valor do veículo"
+    ],
+    "differentials": [
+      "Técnica de polimento de alta definição",
+      "Equipamentos de última geração",
+      "Equipe especializada"
+    ],
+    "brand": "Garagem De Luxo",
+    "related": [
+      "Revisão de veículos",
+      "Pintura de veículos"
+    ]
+  },
+  "marketing": {
+    "headline": "Polimento de Alta Definição",
+    "subheadline": "Dificuldade em encontrar Polimento de Alta Definição de qualidade em Centro de Diadema? Descubra como a Garagem De Luxo resolve com alto padrão.",
+    "promise": "Veículo com aparência de novo",
+    "mechanism": "Nossa equipe especializada utiliza técnicas de polimento de alta definição e equipamentos de última geração para restaurar a aparência do seu veículo.",
+    "pains": [
+      "Dificuldade em encontrar Polimento de Alta Definição de qualidade em Centro de Diadema",
+      "Prejuízo estético do veículo",
+      "Perda de valor do veículo"
+    ],
+    "objections": [
+      "Custo elevado",
+      "Prazo de entrega longo",
+      "Desconfiança na qualidade do serviço"
+    ],
+    "proofs": [
+      "Depoimentos de clientes satisfeitos",
+      "Fotos de antes e depois do polimento"
+    ],
+    "triggers": [
+      "Gatilho de autoridade: Equipe especializada",
+      "Gatilho de urgência: Vagas limitadas",
+      "Gatilho de garantia: Satisfação garantida"
+    ],
+    "htmlContent": "<div class=\"space-y-8\"><h2 class=\"text-2xl font-bold text-white border-b border-white/10 pb-2\">Por que Polimento de Alta Definição exige especialista?</h2><p class=\"text-zinc-300 text-lg\">Dificuldade em encontrar Polimento de Alta Definição de qualidade em Centro de Diadema. Veja como resolver com alto padrão.</p><div class=\"grid md:grid-cols-2 gap-6 my-8\"><div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\"><h3 class=\"font-bold text-red-400 mb-2\">❌ Erro Comum #1: Utilizar produtos inadequados</h3><p class=\"text-sm text-zinc-300\">Utilizar produtos inadequados para o polimento pode danificar a pintura do veículo.</p></div><div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\"><h3 class=\"font-bold text-red-400 mb-2\">❌ Erro Comum #2: Não seguir as instruções do fabricante</h3><p class=\"text-sm text-zinc-300\">Não seguir as instruções do fabricante pode resultar em um polimento de baixa qualidade.</p></div></div><h3 class=\"text-xl font-bold text-[border-[#C9A227]]\">Como a Garagem De Luxo resolve</h3><p class=\"text-zinc-300\">Nossa equipe especializada utiliza técnicas de polimento de alta definição e equipamentos de última geração para restaurar a aparência do seu veículo.</p><div class=\"mt-6 p-4 bg-white/[0.03] rounded-xl border border-white/10\"><p class=\"text-zinc-300 italic\">\"Meu veículo estava com a pintura danificada, mas após o polimento na Garagem De Luxo, ele está como novo!\" — João Silva</p></div></div>"
+  },
+  "conversion": {
+    "offer": "Avaliação diagnóstica gratuita + orçamento sem compromisso",
+    "guarantee": "Satisfação garantida ou refazemos sem custo",
+    "urgency": "Agenda com vagas limitadas",
+    "steps": [
+      "Agende uma avaliação",
+      "Receba um orçamento personalizado",
+      "Aproveite o polimento de alta definição"
+    ],
+    "primaryCta": {
+      "text": "Agendar Avaliação Gratuita",
+      "whatsappMessage": "Olá! Vi a página sobre Polimento de Alta Definição e gostaria de uma avaliação para Dificuldade em encontrar Polimento de Alta Definição de qualidade em Centro de Diadema."
+    },
+    "secondaryCta": {
+      "text": "Ver todos os serviços",
+      "href": "/"
+    },
+    "microcopy": {
+      "button": "Agendar",
+      "whatsapp": "Olá! Gostaria de uma avaliação para Polimento de Alta Definição."
+    },
+    "whatsappNumber": "5511981240056"
+  },
+  "faq": [],
+  "local": {
+    "city": "Diadema",
+    "neighborhoods": [
+      "Centro",
+      "Taboão",
+      "Inamar"
+    ],
+    "region": "Grande ABC Paulista",
+    "serviceArea": "Centro",
+    "geoSignals": [
+      "Localizado no coração de Diadema, onde a tradição e a inovação se encontram.",
+      "Próximo ao Terminal Diadema, facilitando o acesso para nossos clientes.",
+      "No bairro do Centro, onde a vida noturna e a tranquilidade se misturam."
+    ],
+    "localFaq": [
+      {
+        "question": "Qual é o processo de Polimento de Alta Definição utilizado na Garagem De Luxo em Diadema?",
+        "answer": "Nossa equipe utiliza técnicas avançadas de polimento, garantindo um acabamento perfeito e personalizado para cada veículo, aqui no coração de Diadema, no Grande ABC Paulista.",
+        "stage": "local"
+      },
+      {
+        "question": "Onde funciona a Garagem De Luxo e quais bairros são atendidos?",
+        "answer": "Nossa garagem está localizada no Centro de Diadema, atendendo aos bairros de Taboão, Inamar e demais regiões do Grande ABC Paulista, oferecendo serviços de polimento de alta definição e muito mais.",
+        "stage": "local"
+      }
+    ]
+  },
+  "schema": {
+    "service": {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Polimento de Alta Definição",
+      "description": "Dificuldade em encontrar Polimento de Alta Definição de qualidade? Descubra como a Garagem De Luxo resolve com alto padrão.",
+      "url": "garagemdeluxo.vercel.app/servicos/polimento-de-alta-definicao",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Garagem De Luxo",
+        "url": "garagemdeluxo.vercel.app"
+      },
+      "offers": {
+        "@type": "Offer",
+        "name": "Avaliação diagnóstica gratuita + orçamento sem compromisso",
+        "url": "garagemdeluxo.vercel.app/servicos/polimento-de-alta-definicao"
+      }
+    },
+    "breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Início",
+          "item": "garagemdeluxo.vercel.app"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "servicos",
+          "item": "garagemdeluxo.vercel.app/servicos"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Polimento de Alta Definição",
+          "item": "garagemdeluxo.vercel.app/servicos/polimento-de-alta-definicao"
+        }
+      ]
+    },
+    "localBusiness": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Garagem De Luxo",
+      "url": "garagemdeluxo.vercel.app",
+      "telephone": "+55 5511981240056",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Diadema",
+        "addressRegion": "SP",
+        "addressCountry": "BR",
+        "streetAddress": ""
+      },
+      "areaServed": [
+        "Diadema",
+        "Centro",
+        "Taboão",
+        "Inamar"
+      ]
+    }
+  },
+  "quality": {
+    "scores": {
+      "technical": 100,
+      "seo": 90,
+      "aeo": 20,
+      "geo": 100,
+      "entity": 100,
+      "conversion": 100,
+      "trust": 100,
+      "content": 90
+    },
+    "total": 85,
+    "warnings": [
+      "sem links para hubs temáticos",
+      "FAQ insuficiente (0 perguntas, mínimo 6)",
+      "FAQ abaixo de 10 perguntas (ideal: 10-12)",
+      "Schema FAQPage não gerado — faq pode estar vazio",
+      "FAQ cobre apenas 0/4 estágios do funil",
+      "htmlContent abaixo de 1500 chars (ideal para thin content)",
+      "RISCO DE THIN CONTENT: conteúdo raso + FAQ insuficiente"
+    ],
+    "missingFields": [],
+    "thinContentRisk": true
+  },
+  "linking": {
+    "siblings": [],
+    "children": [],
+    "hubs": [],
+    "anchors": {}
+  },
+  "source": {
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "promptHash": "02d5516d",
+    "fallbackUsed": false,
+    "generationMs": 13091
+  }
+}

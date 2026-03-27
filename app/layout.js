@@ -2,6 +2,7 @@ import "./globals.css";
 
 const SITE_URL = "https://garagemdeluxo.vercel.app";
 
+// 🛡️ FUNDAÇÃO: O Google lê isso se a página não tiver SEO próprio
 export const metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
@@ -48,8 +49,7 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Garagem de Luxo Diadema | Estética Automotiva Premium",
-    description:
-      "Lavagem técnica, vitrificação, polimento e acabamento premium em Diadema.",
+    description: "Lavagem técnica, vitrificação, polimento e acabamento premium em Diadema.",
     images: ["/Logo.png"],
   },
 };

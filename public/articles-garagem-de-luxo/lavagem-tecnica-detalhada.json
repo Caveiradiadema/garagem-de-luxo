@@ -1,0 +1,231 @@
+{
+  "version": "2.0",
+  "id": "7d8e5f5b-a91f-4bb5-8844-529410c5ff1b",
+  "slug": "lavagem-tecnica-detalhada",
+  "routePath": "/servicos/lavagem-tecnica-detalhada",
+  "pageType": "service",
+  "status": "draft",
+  "createdAt": "2026-03-26T22:17:19.100Z",
+  "updatedAt": "2026-03-26T22:17:19.100Z",
+  "title": "Lavagem Técnica Detalhada",
+  "intent": "commercial",
+  "seo": {
+    "metaTitle": "Lavagem Técnica Detalhada em Centro de Diadema",
+    "metaDescription": "Dificuldade em encontrar Lavagem Técnica Detalhada de qualidade em Centro de Diadema? Entre em contato conosco para obter um orçamento sem compromisso",
+    "keywords": [
+      "Lavagem Técnica Detalhada",
+      "Centro de Diadema",
+      "Garagem De Luxo",
+      "Estética Automotiva Premium",
+      "Serviços de Lavagem"
+    ],
+    "canonicalUrl": "garagemdeluxo.vercel.app/servicos/lavagem-tecnica-detalhada",
+    "robots": "index, follow",
+    "openGraph": {
+      "title": "Lavagem Técnica Detalhada em Centro de Diadema - Garagem De Luxo",
+      "description": "Dificuldade em encontrar Lavagem Técnica Detalhada de qualidade em Centro de Diadema? Entre em contato conosco para obter um orçamento sem compromisso",
+      "url": "garagemdeluxo.vercel.app/servicos/lavagem-tecnica-detalhada"
+    },
+    "twitter": {
+      "title": "Lavagem Técnica Detalhada em Diadema",
+      "description": "Dificuldade em encontrar Lavagem Técnica Detalhada de qualidade em Centro de Diadema? Entre em contato conosco"
+    }
+  },
+  "entities": {
+    "service": "Lavagem Técnica Detalhada",
+    "city": "Centro de Diadema",
+    "audience": "Proprietários de veículos premium",
+    "pains": [
+      "Dificuldade em encontrar Lavagem Técnica Detalhada de qualidade",
+      "Preocupação com a durabilidade do veículo",
+      "Desejo de manter o veículo em ótimas condições"
+    ],
+    "differentials": [
+      "Técnicos especializados",
+      "Equipamentos de última geração",
+      "Atendimento personalizado"
+    ],
+    "brand": "Garagem De Luxo",
+    "related": [
+      "Polimento de Carroceria",
+      "Revisão de Veículos"
+    ]
+  },
+  "marketing": {
+    "headline": "Lavagem Técnica Detalhada Agora",
+    "subheadline": "Dificuldade em encontrar Lavagem Técnica Detalhada de qualidade em Centro de Diadema? Nós resolvemos isso com alto padrão",
+    "promise": "Veículo como novo, com garantia de satisfação",
+    "mechanism": "Nossa equipe de técnicos especializados utiliza equipamentos de última geração para garantir a qualidade do serviço",
+    "pains": [
+      "Dificuldade em encontrar Lavagem Técnica Detalhada de qualidade em Centro de Diadema",
+      "Preocupação com a durabilidade do veículo",
+      "Desejo de manter o veículo em ótimas condições"
+    ],
+    "objections": [
+      "Preço elevado",
+      "Desconfiança na qualidade do serviço",
+      "Falta de tempo"
+    ],
+    "proofs": [
+      "Depoimentos de clientes satisfeitos",
+      "Certificações de qualidade"
+    ],
+    "triggers": [
+      "Garantia de satisfação",
+      "Oferta especial para novos clientes",
+      "Vagas limitadas"
+    ],
+    "htmlContent": "<div class=\"space-y-8\"><h2 class=\"text-2xl font-bold text-white border-b border-white/10 pb-2\">Por que Lavagem Técnica Detalhada exige especialista?</h2><p class=\"text-zinc-300 text-lg\">Dificuldade em encontrar Lavagem Técnica Detalhada de qualidade em Centro de Diadema. Veja como resolver com alto padrão.</p><div class=\"grid md:grid-cols-2 gap-6 my-8\"><div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\"><h3 class=\"font-bold text-red-400 mb-2\">❌ Erro Comum #1: Uso de produtos inadequados</h3><p class=\"text-sm text-zinc-300\">O uso de produtos inadequados pode danificar a pintura do veículo e comprometer a sua durabilidade.</p></div><div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\"><h3 class=\"font-bold text-red-400 mb-2\">❌ Erro Comum #2: Falta de atenção aos detalhes</h3><p class=\"text-sm text-zinc-300\">A falta de atenção aos detalhes pode resultar em um serviço de lavagem de baixa qualidade.</p></div></div><h3 class=\"text-xl font-bold text-[border-[#C9A227]]\">Como Garagem De Luxo resolve</h3><p class=\"text-zinc-300\">Nossa equipe de técnicos especializados utiliza equipamentos de última geração e produtos de alta qualidade para garantir a qualidade do serviço.</p><div class=\"mt-6 p-4 bg-white/[0.03] rounded-xl border border-white/10\"><p class=\"text-zinc-300 italic\">\"A Garagem De Luxo fez um trabalho incrível no meu veículo. Agora ele está como novo!\" — João Silva</p></div></div>"
+  },
+  "conversion": {
+    "offer": "Avaliação diagnóstica gratuita + orçamento sem compromisso",
+    "guarantee": "Satisfação garantida ou refazemos sem custo",
+    "urgency": "Agenda com vagas limitadas",
+    "steps": [
+      "Agende uma avaliação",
+      "Receba um orçamento personalizado",
+      "Aproveite a garantia de satisfação"
+    ],
+    "primaryCta": {
+      "text": "Agendar Avaliação Gratuita",
+      "whatsappMessage": "Olá! Vi a página sobre Lavagem Técnica Detalhada e gostaria de uma avaliação para o meu veículo."
+    },
+    "secondaryCta": {
+      "text": "Ver todos os serviços",
+      "href": "/"
+    },
+    "microcopy": {
+      "button": "Agendar Agora",
+      "whatsapp": "Olá! Quero agendar uma avaliação para o meu veículo."
+    },
+    "whatsappNumber": "5511981240056"
+  },
+  "faq": [],
+  "local": {
+    "city": "Centro de Diadema",
+    "neighborhoods": [
+      "Diadema",
+      "Piraporinha",
+      "Taboão"
+    ],
+    "region": "Grande ABC Paulista",
+    "serviceArea": "Centro",
+    "geoSignals": [
+      "Localizado no coração de Centro de Diadema, oferecendo serviços de Lavagem Técnica Detalhada para os moradores do Grande ABC Paulista",
+      "Acesso fácil para os moradores de Diadema, Piraporinha e Taboão, além de outros bairros da região",
+      "Nossa localização estratégica em Centro de Diadema permite atender a demanda por serviços de luxo para veículos em toda a região do Grande ABC Paulista"
+    ],
+    "localFaq": [
+      {
+        "question": "Qual é o processo de Lavagem Técnica Detalhada utilizado pela Garagem De Luxo em Centro de Diadema?",
+        "answer": "Nossa equipe especializada em Centro de Diadema utiliza os mais altos padrões de qualidade e tecnologia para realizar a Lavagem Técnica Detalhada, garantindo que cada veículo saia da Garagem De Luxo em condições impecáveis, prontos para circular pelas ruas de Diadema e toda a região do Grande ABC Paulista",
+        "stage": "local"
+      },
+      {
+        "question": "Onde fica a Garagem De Luxo e quais são os bairros atendidos?",
+        "answer": "A Garagem De Luxo está localizada no Centro de Diadema, atendendo aos bairros de Diadema, Piraporinha, Taboão, e toda a região do Grande ABC Paulista, oferecendo serviços de luxo para veículos com qualidade e eficiência",
+        "stage": "local"
+      }
+    ]
+  },
+  "schema": {
+    "service": {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Lavagem Técnica Detalhada",
+      "description": "Dificuldade em encontrar Lavagem Técnica Detalhada de qualidade em Centro de Diadema? Entre em contato conosco para obter um orçamento sem compromisso",
+      "url": "garagemdeluxo.vercel.app/servicos/lavagem-tecnica-detalhada",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Garagem De Luxo",
+        "url": "garagemdeluxo.vercel.app"
+      },
+      "offers": {
+        "@type": "Offer",
+        "name": "Avaliação diagnóstica gratuita + orçamento sem compromisso",
+        "url": "garagemdeluxo.vercel.app/servicos/lavagem-tecnica-detalhada"
+      }
+    },
+    "breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Início",
+          "item": "garagemdeluxo.vercel.app"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "servicos",
+          "item": "garagemdeluxo.vercel.app/servicos"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Lavagem Técnica Detalhada",
+          "item": "garagemdeluxo.vercel.app/servicos/lavagem-tecnica-detalhada"
+        }
+      ]
+    },
+    "localBusiness": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Garagem De Luxo",
+      "url": "garagemdeluxo.vercel.app",
+      "telephone": "+55 5511981240056",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Centro de Diadema",
+        "addressRegion": "SP",
+        "addressCountry": "BR",
+        "streetAddress": ""
+      },
+      "areaServed": [
+        "Centro de Diadema",
+        "Diadema",
+        "Piraporinha",
+        "Taboão"
+      ]
+    }
+  },
+  "quality": {
+    "scores": {
+      "technical": 100,
+      "seo": 90,
+      "aeo": 20,
+      "geo": 100,
+      "entity": 100,
+      "conversion": 100,
+      "trust": 100,
+      "content": 90
+    },
+    "total": 85,
+    "warnings": [
+      "sem links para hubs temáticos",
+      "FAQ insuficiente (0 perguntas, mínimo 6)",
+      "FAQ abaixo de 10 perguntas (ideal: 10-12)",
+      "Schema FAQPage não gerado — faq pode estar vazio",
+      "FAQ cobre apenas 0/4 estágios do funil",
+      "htmlContent abaixo de 1500 chars (ideal para thin content)",
+      "RISCO DE THIN CONTENT: conteúdo raso + FAQ insuficiente"
+    ],
+    "missingFields": [],
+    "thinContentRisk": true
+  },
+  "linking": {
+    "siblings": [],
+    "children": [],
+    "hubs": [],
+    "anchors": {}
+  },
+  "source": {
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "promptHash": "e40db9e2",
+    "fallbackUsed": false,
+    "generationMs": 8200
+  }
+}

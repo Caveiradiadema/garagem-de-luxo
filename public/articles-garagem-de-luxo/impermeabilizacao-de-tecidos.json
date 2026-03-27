@@ -1,0 +1,233 @@
+{
+  "version": "2.0",
+  "id": "d760f371-8e42-46a7-b907-e1b3ca458d0d",
+  "slug": "impermeabilizacao-de-tecidos",
+  "routePath": "/servicos/impermeabilizacao-de-tecidos",
+  "pageType": "service",
+  "status": "draft",
+  "createdAt": "2026-03-26T22:18:43.262Z",
+  "updatedAt": "2026-03-26T22:18:43.262Z",
+  "title": "Impermeabilização de Tecidos",
+  "intent": "commercial",
+  "seo": {
+    "metaTitle": "Impermeabilização de Tecidos em Centro de Diadema",
+    "metaDescription": "Proteja seus tecidos com nossa Impermeabilização de Tecidos de alta qualidade em Centro de Diadema. Entre em contato para mais informações.",
+    "keywords": [
+      "Impermeabilização de Tecidos",
+      "Centro de Diadema",
+      "Garagem De Luxo",
+      "Estética Automotiva Premium",
+      "Impermeabilização de bancos",
+      "Impermeabilização de tapetes"
+    ],
+    "canonicalUrl": "garagemdeluxo.vercel.app/servicos/impermeabilizacao-de-tecidos",
+    "robots": "index, follow",
+    "openGraph": {
+      "title": "Impermeabilização de Tecidos em Centro de Diadema - Garagem De Luxo",
+      "description": "Proteja seus tecidos com nossa Impermeabilização de Tecidos de alta qualidade em Centro de Diadema. Entre em contato para mais informações.",
+      "url": "garagemdeluxo.vercel.app/servicos/impermeabilizacao-de-tecidos"
+    },
+    "twitter": {
+      "title": "Impermeabilização de Tecidos",
+      "description": "Proteja seus tecidos com nossa Impermeabilização de Tecidos de alta qualidade em Centro de Diadema."
+    }
+  },
+  "entities": {
+    "service": "Impermeabilização de Tecidos",
+    "city": "Centro de Diadema",
+    "audience": "Proprietários de veículos premium",
+    "pains": [
+      "Dificuldade em encontrar Impermeabilização de Tecidos de qualidade em Centro de Diadema",
+      "Preocupação com a durabilidade dos tecidos",
+      "Desejo de manter o veículo com aparência nova"
+    ],
+    "differentials": [
+      "Técnicos especializados em Impermeabilização de Tecidos",
+      "Produtos de alta qualidade",
+      "Garantia de satisfação"
+    ],
+    "brand": "Garagem De Luxo",
+    "related": [
+      "Revestimento de Couro",
+      "Impermeabilização de Tapetes"
+    ]
+  },
+  "marketing": {
+    "headline": "Impermeabilize seus Tecidos",
+    "subheadline": "Proteja seus tecidos contra manchas e desgaste com nossa Impermeabilização de Tecidos de alta qualidade",
+    "promise": "Seu veículo com aparência nova e protegida",
+    "mechanism": "Nossa equipe de técnicos especializados em Impermeabilização de Tecidos utiliza produtos de alta qualidade para garantir a proteção e durabilidade dos tecidos",
+    "pains": [
+      "Dificuldade em encontrar Impermeabilização de Tecidos de qualidade em Centro de Diadema",
+      "Preocupação com a durabilidade dos tecidos",
+      "Desejo de manter o veículo com aparência nova"
+    ],
+    "objections": [
+      "Preço alto",
+      "Dúvida sobre a eficácia do tratamento",
+      "Preocupação com a segurança do produto"
+    ],
+    "proofs": [
+      "Depoimentos de clientes satisfeitos",
+      "Certificações de qualidade",
+      "Garantia de satisfação"
+    ],
+    "triggers": [
+      "Oferta especial por tempo limitado",
+      "Garantia de satisfação",
+      "Equipe de técnicos especializados"
+    ],
+    "htmlContent": "<div class=\"space-y-8\"><h2 class=\"text-2xl font-bold text-white border-b border-white/10 pb-2\">Por que Impermeabilização de Tecidos exige especialista?</h2><p class=\"text-zinc-300 text-lg\">Dificuldade em encontrar Impermeabilização de Tecidos de qualidade em Centro de Diadema. Veja como resolver com alto padrão.</p><div class=\"grid md:grid-cols-2 gap-6 my-8\"><div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\"><h3 class=\"font-bold text-red-400 mb-2\">❌ Erro Comum #1: Utilizar produtos de baixa qualidade</h3><p class=\"text-sm text-zinc-300\">Isso pode danificar os tecidos e reduzir a durabilidade do tratamento.</p></div><div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\"><h3 class=\"font-bold text-red-400 mb-2\">❌ Erro Comum #2: Não seguir as instruções de aplicação</h3><p class=\"text-sm text-zinc-300\">Isso pode afetar a eficácia do tratamento e causar problemas futuros.</p></div></div><h3 class=\"text-xl font-bold text-[border-[#C9A227]]\">Como Garagem De Luxo resolve</h3><p class=\"text-zinc-300\">Nossa equipe de técnicos especializados em Impermeabilização de Tecidos utiliza produtos de alta qualidade e segue as instruções de aplicação para garantir a proteção e durabilidade dos tecidos.</p><div class=\"mt-6 p-4 bg-white/[0.03] rounded-xl border border-white/10\"><p class=\"text-zinc-300 italic\">\"A Garagem De Luxo fez um trabalho incrível na Impermeabilização de Tecidos do meu veículo. Estou muito satisfeito!\" — João Silva</p></div></div>"
+  },
+  "conversion": {
+    "offer": "Avaliação diagnóstica gratuita + orçamento sem compromisso",
+    "guarantee": "Satisfação garantida ou refazemos sem custo",
+    "urgency": "Agenda com vagas limitadas",
+    "steps": [
+      "Agende uma avaliação",
+      "Receba um orçamento personalizado",
+      "Aproveite a Impermeabilização de Tecidos de alta qualidade"
+    ],
+    "primaryCta": {
+      "text": "Agendar Avaliação Gratuita",
+      "whatsappMessage": "Olá! Vi a página sobre Impermeabilização de Tecidos e gostaria de uma avaliação para Dificuldade em encontrar Impermeabilização de Tecidos de qualidade em Centro de Diadema."
+    },
+    "secondaryCta": {
+      "text": "Ver todos os serviços",
+      "href": "/"
+    },
+    "microcopy": {
+      "button": "Agendar Avaliação",
+      "whatsapp": "Olá! Gostaria de uma avaliação para Impermeabilização de Tecidos"
+    },
+    "whatsappNumber": "5511981240056"
+  },
+  "faq": [],
+  "local": {
+    "city": "Centro de Diadema",
+    "neighborhoods": [
+      "Diadema",
+      "Taboão",
+      "Santo André"
+    ],
+    "region": "Grande ABC Paulista",
+    "serviceArea": "Centro",
+    "geoSignals": [
+      "Localizado no coração do Centro de Diadema, a Garagem De Luxo oferece soluções de impermeabilização de tecidos para os moradores da região.",
+      "Próximo à Avenida dos Estudantes, nossa equipe especializada em impermeabilização de tecidos atende às necessidades dos proprietários de veículos da região.",
+      "Com fácil acesso às principais rodovias do Grande ABC Paulista, a Garagem De Luxo é o destino perfeito para quem busca serviços de impermeabilização de tecidos de alta qualidade em Diadema e arredores."
+    ],
+    "localFaq": [
+      {
+        "question": "Quais são os tipos de tecidos que a Garagem De Luxo pode impermeabilizar em Centro de Diadema?",
+        "answer": "A Garagem De Luxo oferece serviços de impermeabilização para uma variedade de tecidos, incluindo couro, tecidos sintéticos e naturais, para veículos de todos os tipos em Diadema e região do Grande ABC Paulista.",
+        "stage": "local"
+      },
+      {
+        "question": "Onde fica a Garagem De Luxo e quais bairros ela atende em Diadema?",
+        "answer": "A Garagem De Luxo está localizada no Centro de Diadema e atende aos bairros de Diadema, Taboão, Santo André, além de outras localidades do Grande ABC Paulista, oferecendo serviços de impermeabilização de tecidos de alta qualidade e com garantia.",
+        "stage": "local"
+      }
+    ]
+  },
+  "schema": {
+    "service": {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Impermeabilização de Tecidos",
+      "description": "Proteja seus tecidos com nossa Impermeabilização de Tecidos de alta qualidade em Centro de Diadema. Entre em contato para mais informações.",
+      "url": "garagemdeluxo.vercel.app/servicos/impermeabilizacao-de-tecidos",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Garagem De Luxo",
+        "url": "garagemdeluxo.vercel.app"
+      },
+      "offers": {
+        "@type": "Offer",
+        "name": "Avaliação diagnóstica gratuita + orçamento sem compromisso",
+        "url": "garagemdeluxo.vercel.app/servicos/impermeabilizacao-de-tecidos"
+      }
+    },
+    "breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Início",
+          "item": "garagemdeluxo.vercel.app"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "servicos",
+          "item": "garagemdeluxo.vercel.app/servicos"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Impermeabilização de Tecidos",
+          "item": "garagemdeluxo.vercel.app/servicos/impermeabilizacao-de-tecidos"
+        }
+      ]
+    },
+    "localBusiness": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Garagem De Luxo",
+      "url": "garagemdeluxo.vercel.app",
+      "telephone": "+55 5511981240056",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Centro de Diadema",
+        "addressRegion": "SP",
+        "addressCountry": "BR",
+        "streetAddress": ""
+      },
+      "areaServed": [
+        "Centro de Diadema",
+        "Diadema",
+        "Taboão",
+        "Santo André"
+      ]
+    }
+  },
+  "quality": {
+    "scores": {
+      "technical": 100,
+      "seo": 90,
+      "aeo": 20,
+      "geo": 100,
+      "entity": 100,
+      "conversion": 100,
+      "trust": 100,
+      "content": 90
+    },
+    "total": 85,
+    "warnings": [
+      "sem links para hubs temáticos",
+      "FAQ insuficiente (0 perguntas, mínimo 6)",
+      "FAQ abaixo de 10 perguntas (ideal: 10-12)",
+      "Schema FAQPage não gerado — faq pode estar vazio",
+      "FAQ cobre apenas 0/4 estágios do funil",
+      "htmlContent abaixo de 1500 chars (ideal para thin content)",
+      "RISCO DE THIN CONTENT: conteúdo raso + FAQ insuficiente"
+    ],
+    "missingFields": [],
+    "thinContentRisk": true
+  },
+  "linking": {
+    "siblings": [],
+    "children": [],
+    "hubs": [],
+    "anchors": {}
+  },
+  "source": {
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "promptHash": "f25552c1",
+    "fallbackUsed": false,
+    "generationMs": 19509
+  }
+}
