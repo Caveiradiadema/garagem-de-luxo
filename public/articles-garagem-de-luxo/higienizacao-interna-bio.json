@@ -1,94 +1,96 @@
 {
   "version": "2.0",
-  "id": "a63b0812-a562-4ec3-9dd5-88bbe784f9f7",
+  "id": "1a73d28d-1cff-4435-9aeb-5275c032fc5c",
   "slug": "higienizacao-interna-bio",
   "routePath": "/servicos/higienizacao-interna-bio",
   "pageType": "service",
   "status": "draft",
-  "createdAt": "2026-03-26T22:18:13.138Z",
-  "updatedAt": "2026-03-26T22:18:13.138Z",
-  "title": "Higienização Interna Bio",
-  "intent": "commercial",
+  "createdAt": "2026-03-31T00:31:11.647Z",
+  "updatedAt": "2026-03-31T00:31:11.647Z",
   "seo": {
-    "metaTitle": "Higienização Interna Bio em Centro de Diadema",
-    "metaDescription": "Elimine bactérias e vírus com Higienização Interna Bio. Agende agora e proteja sua saúde em Centro de Diadema",
+    "metaTitle": "Higienização Interna Bio em Diadema | Garagem De Luxo",
+    "metaDescription": "Dificuldade em encontrar Higienização Interna Bio de qualidade em Centro de Diadema. Garagem De Luxo oferece higienização interna bio em Diadema com",
     "keywords": [
-      "Higienização Interna Bio",
-      "Centro de Diadema",
-      "Garagem De Luxo",
-      "Higienização de veículos",
-      "Desinfecção de carros"
+      "higienização interna bio",
+      "higienização interna bio diadema",
+      "higienização interna bio profissional",
+      "higienização interna bio com qualidade",
+      "estética automotiva premium diadema",
+      "garagem de luxo diadema",
+      "garagem de luxo"
     ],
     "canonicalUrl": "garagemdeluxo.vercel.app/servicos/higienizacao-interna-bio",
     "robots": "index, follow",
     "openGraph": {
-      "title": "Higienização Interna Bio em Centro de Diadema - Garagem De Luxo",
-      "description": "Elimine bactérias e vírus com Higienização Interna Bio. Agende agora e proteja sua saúde em Centro de Diadema",
+      "title": "Higienização Interna Bio em Diadema com padrão profissional | Garagem De Luxo",
+      "description": "Quem busca higienização interna bio em Diadema precisa de execução segura, atendimento claro e resultado consistente.",
       "url": "garagemdeluxo.vercel.app/servicos/higienizacao-interna-bio"
     },
     "twitter": {
-      "title": "Higienização Interna Bio",
-      "description": "Elimine bactérias e vírus com Higienização Interna Bio. Agende agora e proteja sua saúde em Centro de Diadema"
+      "title": "Higienização Interna Bio | Garagem De Luxo",
+      "description": "Quem busca higienização interna bio em Diadema precisa de execução segura, atendimento claro e resultado consistente."
     }
   },
   "entities": {
     "service": "Higienização Interna Bio",
-    "city": "Centro de Diadema",
-    "audience": "Proprietários de veículos premium",
+    "city": "Diadema",
+    "audience": "Pessoas que buscam higienização interna bio com atendimento profissional em Diadema",
     "pains": [
-      "Dificuldade em encontrar Higienização Interna Bio de qualidade em Centro de Diadema",
-      "Risco de contaminação por bactérias e vírus",
-      "Odor desagradável no veículo"
+      "Receio de contratar higienização interna bio e receber um serviço abaixo do esperado",
+      "Falta de confiança em profissionais que prometem muito e explicam pouco",
+      "Medo de perder tempo e dinheiro com retrabalho"
     ],
     "differentials": [
-      "Técnica de higienização avançada",
-      "Produtos de alta qualidade",
-      "Equipe especializada"
+      "Especialização em Estética Automotiva Premium",
+      "Atendimento personalizado em Diadema",
+      "Execução com método, clareza e padrão profissional"
     ],
     "brand": "Garagem De Luxo",
     "related": [
-      "Desinfecção de carros",
-      "Higienização de veículos"
+      "lavagem-simples",
+      "lavagem-tecnica-detalhada",
+      "vitrificacao-de-elite"
     ]
   },
   "marketing": {
-    "headline": "Higienize seu veículo agora",
-    "subheadline": "Elimine bactérias e vírus com nossa Higienização Interna Bio de alta qualidade",
-    "promise": "Veículo higienizado e desinfetado, garantindo a saúde e o bem-estar dos ocupantes",
-    "mechanism": "Nossa equipe especializada utiliza técnicas avançadas e produtos de alta qualidade para garantir a higienização eficaz do seu veículo",
+    "headline": "Higienização Interna Bio em Diadema com padrão profissional",
+    "subheadline": "Quem busca higienização interna bio em Diadema precisa de execução segura, atendimento claro e resultado consistente.",
+    "promise": "A proposta é simples: entregar higienização interna bio com mais segurança, mais capricho e menos dor de cabeça.",
+    "mechanism": "Garagem De Luxo combina diagnóstico inicial, técnica especializada em estética automotiva premium, seleção criteriosa de materiais e execução personalizada para entregar higienização interna bio com padrão profissional em Diadema.",
     "pains": [
-      "Dificuldade em encontrar Higienização Interna Bio de qualidade em Centro de Diadema",
-      "Risco de contaminação por bactérias e vírus",
-      "Odor desagradável no veículo"
+      "Receio de contratar higienização interna bio e receber um serviço abaixo do esperado",
+      "Falta de confiança em profissionais que prometem muito e explicam pouco",
+      "Medo de perder tempo e dinheiro com retrabalho"
     ],
     "objections": [
-      "Preço elevado",
-      "Tempo de espera longo",
-      "Dúvida sobre a eficácia do serviço"
+      "Quero entender melhor como funciona antes de agendar",
+      "Preciso ter certeza de que serei bem atendido do início ao fim",
+      "Não sei se vale o investimento agora"
     ],
     "proofs": [
-      "Depoimentos de clientes satisfeitos",
-      "Certificações de qualidade"
+      "Processo orientado por avaliação inicial, alinhamento de expectativa e execução cuidadosa.",
+      "Atendimento em Diadema e cobertura da Grande ABC Paulista — Diadema, São Bernardo, São Caetano, Santo André, Mauá e região com comunicação rápida.",
+      "Foco em resultado final, acabamento e experiência do cliente do primeiro contato ao pós-atendimento."
     ],
     "triggers": [
-      "Gatilho de autoridade: equipe especializada",
-      "Gatilho de urgência: agenda com vagas limitadas",
-      "Gatilho de garantia: satisfação garantida"
+      "Execução com método, clareza e padrão profissional.",
+      "Orçamento objetivo e sem enrolação.",
+      "Acompanhamento personalizado do início ao fim."
     ],
-    "htmlContent": "<div class=\"space-y-8\"><h2 class=\"text-2xl font-bold text-white border-b border-white/10 pb-2\">Por que Higienização Interna Bio exige especialista?</h2><p class=\"text-zinc-300 text-lg\">Dificuldade em encontrar Higienização Interna Bio de qualidade em Centro de Diadema. Veja como resolver com alto padrão.</p><div class=\"grid md:grid-cols-2 gap-6 my-8\"><div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\"><h3 class=\"font-bold text-red-400 mb-2\">❌ Erro Comum #1: Uso de produtos inadequados</h3><p class=\"text-sm text-zinc-300\">O uso de produtos inadequados pode danificar o veículo e não eliminar as bactérias e vírus.</p></div><div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\"><h3 class=\"font-bold text-red-400 mb-2\">❌ Erro Comum #2: Técnica de higienização inadequada</h3><p class=\"text-sm text-zinc-300\">A técnica de higienização inadequada pode não eliminar as bactérias e vírus de forma eficaz.</p></div></div><h3 class=\"text-xl font-bold text-[border-[#C9A227]]\">Como Garagem De Luxo resolve</h3><p class=\"text-zinc-300\">Nossa equipe especializada utiliza técnicas avançadas e produtos de alta qualidade para garantir a higienização eficaz do seu veículo.</p><div class=\"mt-6 p-4 bg-white/[0.03] rounded-xl border border-white/10\"><p class=\"text-zinc-300 italic\">\"Meu veículo nunca esteve tão limpo e higienizado. A Garagem De Luxo é a melhor escolha para Higienização Interna Bio em Centro de Diadema\" — João Silva</p></div></div>"
+    "htmlContent": "<div class=\"space-y-8\">\n  <section class=\"space-y-4\">\n    <h2 class=\"text-2xl font-bold text-white border-b border-white/10 pb-2\">\n      Higienização Interna Bio em Diadema: por que escolher um especialista?\n    </h2>\n    <p class=\"text-zinc-300 text-lg\">\n      Dificuldade em encontrar Higienização Interna Bio de qualidade em Centro de Diadema. Quando a execução é amadora, o cliente costuma enfrentar retrabalho, perda de tempo e resultado abaixo do esperado.\n      Na Garagem De Luxo, o foco é entregar clareza no atendimento, precisão técnica e um resultado final que realmente valorize o serviço.\n    </p>\n  </section>\n\n  <section class=\"grid md:grid-cols-2 gap-6\">\n    <div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\">\n      <h3 class=\"font-bold text-red-400 mb-3\">❌ O que normalmente dá errado</h3>\n      <ul class=\"space-y-2 text-sm\">\n        <li class=\"text-zinc-300\">Receio de contratar higienização interna bio e receber um serviço abaixo do esperado</li><li class=\"text-zinc-300\">Falta de confiança em profissionais que prometem muito e explicam pouco</li><li class=\"text-zinc-300\">Medo de perder tempo e dinheiro com retrabalho</li>\n      </ul>\n    </div>\n\n    <div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\">\n      <h3 class=\"font-bold text-green-400 mb-3\">✅ Como a Garagem De Luxo resolve</h3>\n      <ul class=\"space-y-2 text-sm\">\n        <li class=\"text-zinc-300\">Execução com método, clareza e padrão profissional.</li><li class=\"text-zinc-300\">Orçamento objetivo e sem enrolação.</li><li class=\"text-zinc-300\">Acompanhamento personalizado do início ao fim.</li>\n      </ul>\n    </div>\n  </section>\n\n  <section class=\"space-y-3\">\n    <h3 class=\"text-xl font-bold\" style=\"color:#E8D48B\">Nosso método</h3>\n    <p class=\"text-zinc-300\">Garagem De Luxo combina diagnóstico inicial, técnica especializada em estética automotiva premium, seleção criteriosa de materiais e execução personalizada para entregar higienização interna bio com padrão profissional em Diadema.</p>\n  </section>\n\n  <section class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10 space-y-3\">\n    <h3 class=\"text-lg font-bold text-white\">O que gera confiança na prática</h3>\n    <ul class=\"space-y-2 text-sm\">\n      <li class=\"text-zinc-300\">Processo orientado por avaliação inicial, alinhamento de expectativa e execução cuidadosa.</li><li class=\"text-zinc-300\">Atendimento em Diadema e cobertura da Grande ABC Paulista — Diadema, São Bernardo, São Caetano, Santo André, Mauá e região com comunicação rápida.</li><li class=\"text-zinc-300\">Foco em resultado final, acabamento e experiência do cliente do primeiro contato ao pós-atendimento.</li>\n    </ul>\n  </section>\n\n  <section class=\"p-4 bg-white/[0.03] rounded-xl border border-white/10\">\n    <p class=\"text-zinc-300 italic\">\n      \"Atendimento claro, execução cuidadosa e resultado acima do esperado. Foi exatamente a experiência que eu buscava em Diadema.\"\n    </p>\n  </section>\n</div>"
   },
   "conversion": {
-    "offer": "Avaliação diagnóstica gratuita + orçamento sem compromisso",
-    "guarantee": "Satisfação garantida ou refazemos sem custo",
-    "urgency": "Agenda com vagas limitadas",
+    "offer": "Avaliação inicial + orçamento sem compromisso para higienização interna bio",
+    "guarantee": "Compromisso de satisfação com ajustes quando necessário",
+    "urgency": "Horários mais disputados costumam fechar rápido",
     "steps": [
-      "Agende uma avaliação",
-      "Nossa equipe especializada realizará a higienização",
-      "Aproveite um veículo higienizado e desinfetado"
+      "Chame no WhatsApp e explique o que você precisa em higienização interna bio",
+      "Receba orientação inicial e um orçamento claro para o seu caso",
+      "Agende o melhor horário e avance com um atendimento profissional"
     ],
     "primaryCta": {
-      "text": "Agendar Avaliação Gratuita",
-      "whatsappMessage": "Olá! Vi a página sobre Higienização Interna Bio e gostaria de uma avaliação para Dificuldade em encontrar Higienização Interna Bio de qualidade em Centro de Diadema."
+      "text": "Agendar pelo WhatsApp",
+      "whatsappMessage": "Olá! Vi a página sobre Higienização Interna Bio em Diadema e quero receber uma avaliação inicial. Dificuldade em encontrar Higienização Interna Bio de qualidade em Centro de Diadema."
     },
     "secondaryCta": {
       "text": "Ver todos os serviços",
@@ -96,44 +98,89 @@
     },
     "microcopy": {
       "button": "Agendar agora",
-      "whatsapp": "Olá! Quero agendar uma avaliação para Higienização Interna Bio"
+      "whatsapp": "Olá! Gostaria de agendar higienização interna bio com a Garagem De Luxo."
     },
     "whatsappNumber": "5511981240056"
   },
-  "faq": [],
+  "title": "Higienização Interna Bio",
+  "intent": "commercial",
+  "faq": [
+    {
+      "question": "Qual é o diferencial da Garagem De Luxo em higienização interna bio em Diadema?",
+      "answer": "A Garagem De Luxo une atendimento especializado, execução técnica em estética automotiva premium e acompanhamento mais próximo para entregar higienização interna bio com padrão profissional em Diadema.",
+      "stage": "discovery"
+    },
+    {
+      "question": "Quanto custa higienização interna bio em Diadema?",
+      "answer": "O valor depende do tipo de serviço, do nível de personalização e da necessidade do seu caso. Por isso, a Garagem De Luxo trabalha com avaliação inicial e orçamento sem compromisso para indicar a melhor solução.",
+      "stage": "evaluation"
+    },
+    {
+      "question": "Como funciona o processo de higienização interna bio?",
+      "answer": "Primeiro entendemos sua necessidade, depois avaliamos o cenário e indicamos a melhor abordagem. A execução é feita com método, comunicação clara e foco total no resultado final.",
+      "stage": "evaluation"
+    },
+    {
+      "question": "A Garagem De Luxo atende Diadema e região?",
+      "answer": "Sim. Atendemos Diadema e toda a Grande ABC Paulista — Diadema, São Bernardo, São Caetano, Santo André, Mauá e região, com presença recorrente em regiões como Centro, Taboão, Inamar e Eldorado.",
+      "stage": "trust"
+    },
+    {
+      "question": "Quanto tempo leva para fazer higienização interna bio?",
+      "answer": "O prazo varia conforme a complexidade do serviço, mas a maioria dos atendimentos é organizada para ter máxima eficiência sem comprometer a qualidade. Na avaliação inicial, você recebe uma previsão clara.",
+      "stage": "evaluation"
+    },
+    {
+      "question": "Por que escolher a Garagem De Luxo para higienização interna bio?",
+      "answer": "Porque você encontra uma operação mais profissional, explicação transparente, técnica especializada em estética automotiva premium e compromisso real com satisfação.",
+      "stage": "trust"
+    },
+    {
+      "question": "Higienização Interna Bio em Diadema vale a pena?",
+      "answer": "Sim, principalmente quando o objetivo é evitar retrabalho, melhorar o resultado final e contar com atendimento confiável. Um serviço bem executado entrega mais segurança e melhor experiência.",
+      "stage": "discovery"
+    },
+    {
+      "question": "Vocês oferecem garantia em higienização interna bio?",
+      "answer": "Sim. A Garagem De Luxo trabalha com compromisso de satisfação e, quando necessário, realiza ajustes para que o resultado final fique alinhado ao combinado.",
+      "stage": "trust"
+    },
+    {
+      "question": "Como agendar higienização interna bio com a Garagem De Luxo?",
+      "answer": "Basta chamar no WhatsApp, explicar sua necessidade e solicitar seu atendimento. O time responde com rapidez e orienta o melhor próximo passo.",
+      "stage": "action"
+    },
+    {
+      "question": "Além de higienização interna bio, quais serviços a Garagem De Luxo oferece?",
+      "answer": "Além de higienização interna bio, a Garagem De Luxo também oferece Lavagem Simples, Lavagem Técnica Detalhada e Vitrificação de Elite e outros serviços dentro de estética automotiva premium.",
+      "stage": "action"
+    }
+  ],
   "local": {
-    "city": "Centro de Diadema",
+    "city": "Diadema, SP",
     "neighborhoods": [
-      "Diadema",
+      "Centro",
+      "Taboão",
       "Inamar",
-      "Taboão"
+      "Eldorado",
+      "Piraporinha",
+      "Canhema",
+      "Serraria"
     ],
-    "region": "Grande ABC Paulista",
-    "serviceArea": "Centro",
+    "region": "",
+    "serviceArea": "Grande ABC Paulista — Diadema, São Bernardo, São Caetano, Santo André, Mauá e região",
     "geoSignals": [
-      "Localizado no coração de Centro de Diadema, nossa Garagem De Luxo oferece higienização interna bio para veículos de todos os tipos",
-      "Próximo à Avenida Presidente Kennedy, você pode encontrar nossa garagem de luxo com serviços de higienização interna bio de alta qualidade",
-      "Nossa equipe de especialistas em higienização interna bio atende a região do Grande ABC Paulista, incluindo os municípios de Diadema, São Bernardo do Campo e São Caetano do Sul"
+      "Atendemos Diadema, SP e região",
+      "Servimos toda a Grande ABC Paulista — Diadema, São Bernardo, São Caetano, Santo André, Mauá e região"
     ],
-    "localFaq": [
-      {
-        "question": "Qual é o processo de higienização interna bio utilizado pela Garagem De Luxo em Centro de Diadema?",
-        "answer": "Nossa garagem utiliza produtos e técnicas de ponta para realizar a higienização interna bio dos veículos, garantindo a eliminação de 99,9% das bactérias e vírus. Localizada no coração do Centro de Diadema, nossa equipe de especialistas está preparada para atender a região do Grande ABC Paulista.",
-        "stage": "local"
-      },
-      {
-        "question": "Onde funciona a Garagem De Luxo e quais são os bairros atendidos?",
-        "answer": "Nossa garagem está localizada no Centro de Diadema, próximo à Avenida Presidente Kennedy. Atendemos a região do Grande ABC Paulista, incluindo os bairros de Diadema, Inamar, Taboão, e os municípios de São Bernardo do Campo e São Caetano do Sul.",
-        "stage": "local"
-      }
-    ]
+    "localFaq": []
   },
   "schema": {
     "service": {
       "@context": "https://schema.org",
       "@type": "Service",
       "name": "Higienização Interna Bio",
-      "description": "Elimine bactérias e vírus com Higienização Interna Bio. Agende agora e proteja sua saúde em Centro de Diadema",
+      "description": "Dificuldade em encontrar Higienização Interna Bio de qualidade em Centro de Diadema. Garagem De Luxo oferece higienização interna bio em Diadema com",
       "url": "garagemdeluxo.vercel.app/servicos/higienizacao-interna-bio",
       "provider": {
         "@type": "LocalBusiness",
@@ -142,9 +189,129 @@
       },
       "offers": {
         "@type": "Offer",
-        "name": "Avaliação diagnóstica gratuita + orçamento sem compromisso",
+        "name": "Avaliação inicial + orçamento sem compromisso para higienização interna bio",
         "url": "garagemdeluxo.vercel.app/servicos/higienizacao-interna-bio"
-      }
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Diadema, SP"
+        },
+        {
+          "@type": "Place",
+          "name": "Centro"
+        },
+        {
+          "@type": "Place",
+          "name": "Taboão"
+        },
+        {
+          "@type": "Place",
+          "name": "Inamar"
+        },
+        {
+          "@type": "Place",
+          "name": "Eldorado"
+        },
+        {
+          "@type": "Place",
+          "name": "Piraporinha"
+        },
+        {
+          "@type": "Place",
+          "name": "Canhema"
+        },
+        {
+          "@type": "Place",
+          "name": "Serraria"
+        }
+      ]
+    },
+    "faqPage": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Qual é o diferencial da Garagem De Luxo em higienização interna bio em Diadema?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Garagem De Luxo une atendimento especializado, execução técnica em estética automotiva premium e acompanhamento mais próximo para entregar higienização interna bio com padrão profissional em Diadema."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto custa higienização interna bio em Diadema?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O valor depende do tipo de serviço, do nível de personalização e da necessidade do seu caso. Por isso, a Garagem De Luxo trabalha com avaliação inicial e orçamento sem compromisso para indicar a melhor solução."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como funciona o processo de higienização interna bio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Primeiro entendemos sua necessidade, depois avaliamos o cenário e indicamos a melhor abordagem. A execução é feita com método, comunicação clara e foco total no resultado final."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A Garagem De Luxo atende Diadema e região?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim. Atendemos Diadema e toda a Grande ABC Paulista — Diadema, São Bernardo, São Caetano, Santo André, Mauá e região, com presença recorrente em regiões como Centro, Taboão, Inamar e Eldorado."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto tempo leva para fazer higienização interna bio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O prazo varia conforme a complexidade do serviço, mas a maioria dos atendimentos é organizada para ter máxima eficiência sem comprometer a qualidade. Na avaliação inicial, você recebe uma previsão clara."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Por que escolher a Garagem De Luxo para higienização interna bio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Porque você encontra uma operação mais profissional, explicação transparente, técnica especializada em estética automotiva premium e compromisso real com satisfação."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Higienização Interna Bio em Diadema vale a pena?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim, principalmente quando o objetivo é evitar retrabalho, melhorar o resultado final e contar com atendimento confiável. Um serviço bem executado entrega mais segurança e melhor experiência."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vocês oferecem garantia em higienização interna bio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim. A Garagem De Luxo trabalha com compromisso de satisfação e, quando necessário, realiza ajustes para que o resultado final fique alinhado ao combinado."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como agendar higienização interna bio com a Garagem De Luxo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Basta chamar no WhatsApp, explicar sua necessidade e solicitar seu atendimento. O time responde com rapidez e orienta o melhor próximo passo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Além de higienização interna bio, quais serviços a Garagem De Luxo oferece?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Além de higienização interna bio, a Garagem De Luxo também oferece Lavagem Simples, Lavagem Técnica Detalhada e Vitrificação de Elite e outros serviços dentro de estética automotiva premium."
+          }
+        }
+      ]
     },
     "breadcrumb": {
       "@context": "https://schema.org",
@@ -178,16 +345,20 @@
       "telephone": "+55 5511981240056",
       "address": {
         "@type": "PostalAddress",
-        "addressLocality": "Centro de Diadema",
+        "addressLocality": "Diadema, SP",
         "addressRegion": "SP",
         "addressCountry": "BR",
         "streetAddress": ""
       },
       "areaServed": [
-        "Centro de Diadema",
-        "Diadema",
+        "Diadema, SP",
+        "Centro",
+        "Taboão",
         "Inamar",
-        "Taboão"
+        "Eldorado",
+        "Piraporinha",
+        "Canhema",
+        "Serraria"
       ]
     }
   },
@@ -195,25 +366,20 @@
     "scores": {
       "technical": 100,
       "seo": 90,
-      "aeo": 20,
-      "geo": 100,
+      "aeo": 100,
+      "geo": 85,
       "entity": 100,
       "conversion": 100,
       "trust": 100,
-      "content": 90
+      "content": 100
     },
-    "total": 85,
+    "total": 97,
     "warnings": [
       "sem links para hubs temáticos",
-      "FAQ insuficiente (0 perguntas, mínimo 6)",
-      "FAQ abaixo de 10 perguntas (ideal: 10-12)",
-      "Schema FAQPage não gerado — faq pode estar vazio",
-      "FAQ cobre apenas 0/4 estágios do funil",
-      "htmlContent abaixo de 1500 chars (ideal para thin content)",
-      "RISCO DE THIN CONTENT: conteúdo raso + FAQ insuficiente"
+      "localFaq vazio"
     ],
     "missingFields": [],
-    "thinContentRisk": true
+    "thinContentRisk": false
   },
   "linking": {
     "siblings": [],
@@ -222,10 +388,10 @@
     "anchors": {}
   },
   "source": {
-    "provider": "groq",
-    "model": "llama-3.3-70b-versatile",
-    "promptHash": "5bc1b464",
-    "fallbackUsed": false,
-    "generationMs": 22031
+    "provider": "template",
+    "model": "template-v3",
+    "promptHash": "67533d4a",
+    "fallbackUsed": true,
+    "generationMs": 8758
   }
 }

@@ -1,44 +1,44 @@
 {
   "version": "2.0",
-  "id": "57988c0a-1ec7-45b2-b7a8-98e668428746",
-  "slug": "vitrificacao-de-elite",
-  "routePath": "/servicos/vitrificacao-de-elite",
+  "id": "461f27c0-a5a7-470e-9842-9e4fdd292c7c",
+  "slug": "hidratacao-de-couro-premium",
+  "routePath": "/servicos/hidratacao-de-couro-premium",
   "pageType": "service",
   "status": "draft",
-  "createdAt": "2026-03-31T00:30:31.368Z",
-  "updatedAt": "2026-03-31T00:30:31.368Z",
+  "createdAt": "2026-03-31T00:32:13.601Z",
+  "updatedAt": "2026-03-31T00:32:13.601Z",
   "seo": {
-    "metaTitle": "Vitrificação de Elite em Diadema | Garagem De Luxo",
-    "metaDescription": "Dificuldade em encontrar Vitrificação de Elite de qualidade em Centro de Diadema. Garagem De Luxo oferece vitrificação de elite em Diadema com atendimento",
+    "metaTitle": "Hidratação de Couro Premium em Diadema | Garagem De Luxo",
+    "metaDescription": "Dificuldade em encontrar Hidratação de Couro Premium de qualidade em Centro de Diadema. Garagem De Luxo oferece hidratação de couro premium em Diadema com",
     "keywords": [
-      "vitrificação de elite",
-      "vitrificação de elite diadema",
-      "vitrificação de elite profissional",
-      "vitrificação de elite com qualidade",
+      "hidratação de couro premium",
+      "hidratação de couro premium diadema",
+      "hidratação de couro premium profissional",
+      "hidratação de couro premium com qualidade",
       "estética automotiva premium diadema",
       "garagem de luxo diadema",
       "garagem de luxo"
     ],
-    "canonicalUrl": "garagemdeluxo.vercel.app/servicos/vitrificacao-de-elite",
+    "canonicalUrl": "garagemdeluxo.vercel.app/servicos/hidratacao-de-couro-premium",
     "robots": "index, follow",
     "openGraph": {
-      "title": "Vitrificação de Elite em Diadema com padrão profissional | Garagem De Luxo",
-      "description": "Menos improviso, mais método: a Garagem De Luxo entrega vitrificação de elite com padrão profissional em Diadema.",
-      "url": "garagemdeluxo.vercel.app/servicos/vitrificacao-de-elite"
+      "title": "Hidratação de Couro Premium em Diadema com execução técnica e acabamento de alto nível |",
+      "description": "Quem busca hidratação de couro premium em Diadema precisa de execução segura, atendimento claro e resultado consistente.",
+      "url": "garagemdeluxo.vercel.app/servicos/hidratacao-de-couro-premium"
     },
     "twitter": {
-      "title": "Vitrificação de Elite | Garagem De Luxo",
-      "description": "Menos improviso, mais método: a Garagem De Luxo entrega vitrificação de elite com padrão profissional em Diadema."
+      "title": "Hidratação de Couro Premium | Garagem De Luxo",
+      "description": "Quem busca hidratação de couro premium em Diadema precisa de execução segura, atendimento claro e resultado consistente."
     }
   },
   "entities": {
-    "service": "Vitrificação de Elite",
+    "service": "Hidratação de Couro Premium",
     "city": "Diadema",
-    "audience": "Pessoas que buscam vitrificação de elite com atendimento profissional em Diadema",
+    "audience": "Pessoas que buscam hidratação de couro premium com atendimento profissional em Diadema",
     "pains": [
-      "Receio de contratar vitrificação de elite e receber um serviço abaixo do esperado",
-      "Falta de confiança em profissionais que prometem muito e explicam pouco",
-      "Medo de perder tempo e dinheiro com retrabalho"
+      "Medo de perder tempo e dinheiro com retrabalho",
+      "Dificuldade em encontrar atendimento realmente confiável em Diadema",
+      "Dificuldade em encontrar Hidratação de Couro Premium de qualidade em Centro de Diadema."
     ],
     "differentials": [
       "Especialização em Estética Automotiva Premium",
@@ -49,48 +49,48 @@
     "related": [
       "lavagem-simples",
       "lavagem-tecnica-detalhada",
-      "polimento-de-alta-definicao"
+      "vitrificacao-de-elite"
     ]
   },
   "marketing": {
-    "headline": "Vitrificação de Elite em Diadema com padrão profissional",
-    "subheadline": "Menos improviso, mais método: a Garagem De Luxo entrega vitrificação de elite com padrão profissional em Diadema.",
+    "headline": "Hidratação de Couro Premium em Diadema com execução técnica e acabamento de alto nível",
+    "subheadline": "Quem busca hidratação de couro premium em Diadema precisa de execução segura, atendimento claro e resultado consistente.",
     "promise": "Você recebe um serviço pensado para durar, valorizar o resultado final e evitar retrabalho.",
-    "mechanism": "Garagem De Luxo combina diagnóstico inicial, técnica especializada em estética automotiva premium, seleção criteriosa de materiais e execução personalizada para entregar vitrificação de elite com padrão profissional em Diadema.",
+    "mechanism": "Garagem De Luxo combina diagnóstico inicial, técnica especializada em estética automotiva premium, seleção criteriosa de materiais e execução personalizada para entregar hidratação de couro premium com padrão profissional em Diadema.",
     "pains": [
-      "Receio de contratar vitrificação de elite e receber um serviço abaixo do esperado",
-      "Falta de confiança em profissionais que prometem muito e explicam pouco",
-      "Medo de perder tempo e dinheiro com retrabalho"
+      "Medo de perder tempo e dinheiro com retrabalho",
+      "Dificuldade em encontrar atendimento realmente confiável em Diadema",
+      "Dificuldade em encontrar Hidratação de Couro Premium de qualidade em Centro de Diadema."
     ],
     "objections": [
-      "Tenho receio de contratar vitrificação de elite e me arrepender depois",
+      "Tenho receio de contratar hidratação de couro premium e me arrepender depois",
       "Já tive experiência ruim com outro profissional",
       "Quero entender melhor como funciona antes de agendar"
     ],
     "proofs": [
-      "Foco em resultado final, acabamento e experiência do cliente do primeiro contato ao pós-atendimento.",
       "Garagem De Luxo trabalha com estética automotiva premium com atendimento recorrente em bairros como Centro, Taboão e Inamar.",
-      "Processo orientado por avaliação inicial, alinhamento de expectativa e execução cuidadosa."
+      "Processo orientado por avaliação inicial, alinhamento de expectativa e execução cuidadosa.",
+      "Atendimento em Diadema e cobertura da Grande ABC Paulista — Diadema, São Bernardo, São Caetano, Santo André, Mauá e região com comunicação rápida."
     ],
     "triggers": [
+      "Orçamento objetivo e sem enrolação.",
       "Acompanhamento personalizado do início ao fim.",
-      "Garantia de satisfação com ajustes quando necessário.",
-      "Agenda organizada para atender Grande ABC Paulista — Diadema, São Bernardo, São Caetano, Santo André, Mauá e região."
+      "Garantia de satisfação com ajustes quando necessário."
     ],
-    "htmlContent": "<div class=\"space-y-8\">\n  <section class=\"space-y-4\">\n    <h2 class=\"text-2xl font-bold text-white border-b border-white/10 pb-2\">\n      Vitrificação de Elite em Diadema: por que escolher um especialista?\n    </h2>\n    <p class=\"text-zinc-300 text-lg\">\n      Dificuldade em encontrar Vitrificação de Elite de qualidade em Centro de Diadema. Quando a execução é amadora, o cliente costuma enfrentar retrabalho, perda de tempo e resultado abaixo do esperado.\n      Na Garagem De Luxo, o foco é entregar clareza no atendimento, precisão técnica e um resultado final que realmente valorize o serviço.\n    </p>\n  </section>\n\n  <section class=\"grid md:grid-cols-2 gap-6\">\n    <div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\">\n      <h3 class=\"font-bold text-red-400 mb-3\">❌ O que normalmente dá errado</h3>\n      <ul class=\"space-y-2 text-sm\">\n        <li class=\"text-zinc-300\">Receio de contratar vitrificação de elite e receber um serviço abaixo do esperado</li><li class=\"text-zinc-300\">Falta de confiança em profissionais que prometem muito e explicam pouco</li><li class=\"text-zinc-300\">Medo de perder tempo e dinheiro com retrabalho</li>\n      </ul>\n    </div>\n\n    <div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\">\n      <h3 class=\"font-bold text-green-400 mb-3\">✅ Como a Garagem De Luxo resolve</h3>\n      <ul class=\"space-y-2 text-sm\">\n        <li class=\"text-zinc-300\">Acompanhamento personalizado do início ao fim.</li><li class=\"text-zinc-300\">Garantia de satisfação com ajustes quando necessário.</li><li class=\"text-zinc-300\">Agenda organizada para atender Grande ABC Paulista — Diadema, São Bernardo, São Caetano, Santo André, Mauá e região.</li>\n      </ul>\n    </div>\n  </section>\n\n  <section class=\"space-y-3\">\n    <h3 class=\"text-xl font-bold\" style=\"color:#E8D48B\">Nosso método</h3>\n    <p class=\"text-zinc-300\">Garagem De Luxo combina diagnóstico inicial, técnica especializada em estética automotiva premium, seleção criteriosa de materiais e execução personalizada para entregar vitrificação de elite com padrão profissional em Diadema.</p>\n  </section>\n\n  <section class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10 space-y-3\">\n    <h3 class=\"text-lg font-bold text-white\">O que gera confiança na prática</h3>\n    <ul class=\"space-y-2 text-sm\">\n      <li class=\"text-zinc-300\">Foco em resultado final, acabamento e experiência do cliente do primeiro contato ao pós-atendimento.</li><li class=\"text-zinc-300\">Garagem De Luxo trabalha com estética automotiva premium com atendimento recorrente em bairros como Centro, Taboão e Inamar.</li><li class=\"text-zinc-300\">Processo orientado por avaliação inicial, alinhamento de expectativa e execução cuidadosa.</li>\n    </ul>\n  </section>\n\n  <section class=\"p-4 bg-white/[0.03] rounded-xl border border-white/10\">\n    <p class=\"text-zinc-300 italic\">\n      \"Atendimento claro, execução cuidadosa e resultado acima do esperado. Foi exatamente a experiência que eu buscava em Diadema.\"\n    </p>\n  </section>\n</div>"
+    "htmlContent": "<div class=\"space-y-8\">\n  <section class=\"space-y-4\">\n    <h2 class=\"text-2xl font-bold text-white border-b border-white/10 pb-2\">\n      Hidratação de Couro Premium em Diadema: por que escolher um especialista?\n    </h2>\n    <p class=\"text-zinc-300 text-lg\">\n      Dificuldade em encontrar Hidratação de Couro Premium de qualidade em Centro de Diadema. Quando a execução é amadora, o cliente costuma enfrentar retrabalho, perda de tempo e resultado abaixo do esperado.\n      Na Garagem De Luxo, o foco é entregar clareza no atendimento, precisão técnica e um resultado final que realmente valorize o serviço.\n    </p>\n  </section>\n\n  <section class=\"grid md:grid-cols-2 gap-6\">\n    <div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\">\n      <h3 class=\"font-bold text-red-400 mb-3\">❌ O que normalmente dá errado</h3>\n      <ul class=\"space-y-2 text-sm\">\n        <li class=\"text-zinc-300\">Medo de perder tempo e dinheiro com retrabalho</li><li class=\"text-zinc-300\">Dificuldade em encontrar atendimento realmente confiável em Diadema</li><li class=\"text-zinc-300\">Dificuldade em encontrar Hidratação de Couro Premium de qualidade em Centro de Diadema.</li>\n      </ul>\n    </div>\n\n    <div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\">\n      <h3 class=\"font-bold text-green-400 mb-3\">✅ Como a Garagem De Luxo resolve</h3>\n      <ul class=\"space-y-2 text-sm\">\n        <li class=\"text-zinc-300\">Orçamento objetivo e sem enrolação.</li><li class=\"text-zinc-300\">Acompanhamento personalizado do início ao fim.</li><li class=\"text-zinc-300\">Garantia de satisfação com ajustes quando necessário.</li>\n      </ul>\n    </div>\n  </section>\n\n  <section class=\"space-y-3\">\n    <h3 class=\"text-xl font-bold\" style=\"color:#E8D48B\">Nosso método</h3>\n    <p class=\"text-zinc-300\">Garagem De Luxo combina diagnóstico inicial, técnica especializada em estética automotiva premium, seleção criteriosa de materiais e execução personalizada para entregar hidratação de couro premium com padrão profissional em Diadema.</p>\n  </section>\n\n  <section class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10 space-y-3\">\n    <h3 class=\"text-lg font-bold text-white\">O que gera confiança na prática</h3>\n    <ul class=\"space-y-2 text-sm\">\n      <li class=\"text-zinc-300\">Garagem De Luxo trabalha com estética automotiva premium com atendimento recorrente em bairros como Centro, Taboão e Inamar.</li><li class=\"text-zinc-300\">Processo orientado por avaliação inicial, alinhamento de expectativa e execução cuidadosa.</li><li class=\"text-zinc-300\">Atendimento em Diadema e cobertura da Grande ABC Paulista — Diadema, São Bernardo, São Caetano, Santo André, Mauá e região com comunicação rápida.</li>\n    </ul>\n  </section>\n\n  <section class=\"p-4 bg-white/[0.03] rounded-xl border border-white/10\">\n    <p class=\"text-zinc-300 italic\">\n      \"Atendimento claro, execução cuidadosa e resultado acima do esperado. Foi exatamente a experiência que eu buscava em Diadema.\"\n    </p>\n  </section>\n</div>"
   },
   "conversion": {
-    "offer": "Avaliação inicial + orçamento sem compromisso para vitrificação de elite",
+    "offer": "Avaliação inicial + orçamento sem compromisso para hidratação de couro premium",
     "guarantee": "Compromisso de satisfação com ajustes quando necessário",
     "urgency": "Agenda com vagas limitadas nesta semana",
     "steps": [
-      "Chame no WhatsApp e explique o que você precisa em vitrificação de elite",
+      "Chame no WhatsApp e explique o que você precisa em hidratação de couro premium",
       "Receba orientação inicial e um orçamento claro para o seu caso",
       "Agende o melhor horário e avance com um atendimento profissional"
     ],
     "primaryCta": {
       "text": "Agendar pelo WhatsApp",
-      "whatsappMessage": "Olá! Vi a página sobre Vitrificação de Elite em Diadema e quero receber uma avaliação inicial. Dificuldade em encontrar Vitrificação de Elite de qualidade em Centro de Diadema."
+      "whatsappMessage": "Olá! Vi a página sobre Hidratação de Couro Premium em Diadema e quero receber uma avaliação inicial. Dificuldade em encontrar Hidratação de Couro Premium de qualidade em Centro de Diadema."
     },
     "secondaryCta": {
       "text": "Ver todos os serviços",
@@ -98,25 +98,25 @@
     },
     "microcopy": {
       "button": "Agendar agora",
-      "whatsapp": "Olá! Gostaria de agendar vitrificação de elite com a Garagem De Luxo."
+      "whatsapp": "Olá! Gostaria de agendar hidratação de couro premium com a Garagem De Luxo."
     },
     "whatsappNumber": "5511981240056"
   },
-  "title": "Vitrificação de Elite",
+  "title": "Hidratação de Couro Premium",
   "intent": "commercial",
   "faq": [
     {
-      "question": "Qual é o diferencial da Garagem De Luxo em vitrificação de elite em Diadema?",
-      "answer": "A Garagem De Luxo une atendimento especializado, execução técnica em estética automotiva premium e acompanhamento mais próximo para entregar vitrificação de elite com padrão profissional em Diadema.",
+      "question": "Qual é o diferencial da Garagem De Luxo em hidratação de couro premium em Diadema?",
+      "answer": "A Garagem De Luxo une atendimento especializado, execução técnica em estética automotiva premium e acompanhamento mais próximo para entregar hidratação de couro premium com padrão profissional em Diadema.",
       "stage": "discovery"
     },
     {
-      "question": "Quanto custa vitrificação de elite em Diadema?",
+      "question": "Quanto custa hidratação de couro premium em Diadema?",
       "answer": "O valor depende do tipo de serviço, do nível de personalização e da necessidade do seu caso. Por isso, a Garagem De Luxo trabalha com avaliação inicial e orçamento sem compromisso para indicar a melhor solução.",
       "stage": "evaluation"
     },
     {
-      "question": "Como funciona o processo de vitrificação de elite?",
+      "question": "Como funciona o processo de hidratação de couro premium?",
       "answer": "Primeiro entendemos sua necessidade, depois avaliamos o cenário e indicamos a melhor abordagem. A execução é feita com método, comunicação clara e foco total no resultado final.",
       "stage": "evaluation"
     },
@@ -126,33 +126,33 @@
       "stage": "trust"
     },
     {
-      "question": "Quanto tempo leva para fazer vitrificação de elite?",
+      "question": "Quanto tempo leva para fazer hidratação de couro premium?",
       "answer": "O prazo varia conforme a complexidade do serviço, mas a maioria dos atendimentos é organizada para ter máxima eficiência sem comprometer a qualidade. Na avaliação inicial, você recebe uma previsão clara.",
       "stage": "evaluation"
     },
     {
-      "question": "Por que escolher a Garagem De Luxo para vitrificação de elite?",
+      "question": "Por que escolher a Garagem De Luxo para hidratação de couro premium?",
       "answer": "Porque você encontra uma operação mais profissional, explicação transparente, técnica especializada em estética automotiva premium e compromisso real com satisfação.",
       "stage": "trust"
     },
     {
-      "question": "Vitrificação de Elite em Diadema vale a pena?",
+      "question": "Hidratação de Couro Premium em Diadema vale a pena?",
       "answer": "Sim, principalmente quando o objetivo é evitar retrabalho, melhorar o resultado final e contar com atendimento confiável. Um serviço bem executado entrega mais segurança e melhor experiência.",
       "stage": "discovery"
     },
     {
-      "question": "Vocês oferecem garantia em vitrificação de elite?",
+      "question": "Vocês oferecem garantia em hidratação de couro premium?",
       "answer": "Sim. A Garagem De Luxo trabalha com compromisso de satisfação e, quando necessário, realiza ajustes para que o resultado final fique alinhado ao combinado.",
       "stage": "trust"
     },
     {
-      "question": "Como agendar vitrificação de elite com a Garagem De Luxo?",
+      "question": "Como agendar hidratação de couro premium com a Garagem De Luxo?",
       "answer": "Basta chamar no WhatsApp, explicar sua necessidade e solicitar seu atendimento. O time responde com rapidez e orienta o melhor próximo passo.",
       "stage": "action"
     },
     {
-      "question": "Além de vitrificação de elite, quais serviços a Garagem De Luxo oferece?",
-      "answer": "Além de vitrificação de elite, a Garagem De Luxo também oferece Lavagem Simples, Lavagem Técnica Detalhada e Polimento de Alta Definição e outros serviços dentro de estética automotiva premium.",
+      "question": "Além de hidratação de couro premium, quais serviços a Garagem De Luxo oferece?",
+      "answer": "Além de hidratação de couro premium, a Garagem De Luxo também oferece Lavagem Simples, Lavagem Técnica Detalhada e Vitrificação de Elite e outros serviços dentro de estética automotiva premium.",
       "stage": "action"
     }
   ],
@@ -179,9 +179,9 @@
     "service": {
       "@context": "https://schema.org",
       "@type": "Service",
-      "name": "Vitrificação de Elite",
-      "description": "Dificuldade em encontrar Vitrificação de Elite de qualidade em Centro de Diadema. Garagem De Luxo oferece vitrificação de elite em Diadema com atendimento",
-      "url": "garagemdeluxo.vercel.app/servicos/vitrificacao-de-elite",
+      "name": "Hidratação de Couro Premium",
+      "description": "Dificuldade em encontrar Hidratação de Couro Premium de qualidade em Centro de Diadema. Garagem De Luxo oferece hidratação de couro premium em Diadema com",
+      "url": "garagemdeluxo.vercel.app/servicos/hidratacao-de-couro-premium",
       "provider": {
         "@type": "LocalBusiness",
         "name": "Garagem De Luxo",
@@ -189,8 +189,8 @@
       },
       "offers": {
         "@type": "Offer",
-        "name": "Avaliação inicial + orçamento sem compromisso para vitrificação de elite",
-        "url": "garagemdeluxo.vercel.app/servicos/vitrificacao-de-elite"
+        "name": "Avaliação inicial + orçamento sem compromisso para hidratação de couro premium",
+        "url": "garagemdeluxo.vercel.app/servicos/hidratacao-de-couro-premium"
       },
       "areaServed": [
         {
@@ -233,15 +233,15 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Qual é o diferencial da Garagem De Luxo em vitrificação de elite em Diadema?",
+          "name": "Qual é o diferencial da Garagem De Luxo em hidratação de couro premium em Diadema?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A Garagem De Luxo une atendimento especializado, execução técnica em estética automotiva premium e acompanhamento mais próximo para entregar vitrificação de elite com padrão profissional em Diadema."
+            "text": "A Garagem De Luxo une atendimento especializado, execução técnica em estética automotiva premium e acompanhamento mais próximo para entregar hidratação de couro premium com padrão profissional em Diadema."
           }
         },
         {
           "@type": "Question",
-          "name": "Quanto custa vitrificação de elite em Diadema?",
+          "name": "Quanto custa hidratação de couro premium em Diadema?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "O valor depende do tipo de serviço, do nível de personalização e da necessidade do seu caso. Por isso, a Garagem De Luxo trabalha com avaliação inicial e orçamento sem compromisso para indicar a melhor solução."
@@ -249,7 +249,7 @@
         },
         {
           "@type": "Question",
-          "name": "Como funciona o processo de vitrificação de elite?",
+          "name": "Como funciona o processo de hidratação de couro premium?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Primeiro entendemos sua necessidade, depois avaliamos o cenário e indicamos a melhor abordagem. A execução é feita com método, comunicação clara e foco total no resultado final."
@@ -265,7 +265,7 @@
         },
         {
           "@type": "Question",
-          "name": "Quanto tempo leva para fazer vitrificação de elite?",
+          "name": "Quanto tempo leva para fazer hidratação de couro premium?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "O prazo varia conforme a complexidade do serviço, mas a maioria dos atendimentos é organizada para ter máxima eficiência sem comprometer a qualidade. Na avaliação inicial, você recebe uma previsão clara."
@@ -273,7 +273,7 @@
         },
         {
           "@type": "Question",
-          "name": "Por que escolher a Garagem De Luxo para vitrificação de elite?",
+          "name": "Por que escolher a Garagem De Luxo para hidratação de couro premium?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Porque você encontra uma operação mais profissional, explicação transparente, técnica especializada em estética automotiva premium e compromisso real com satisfação."
@@ -281,7 +281,7 @@
         },
         {
           "@type": "Question",
-          "name": "Vitrificação de Elite em Diadema vale a pena?",
+          "name": "Hidratação de Couro Premium em Diadema vale a pena?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Sim, principalmente quando o objetivo é evitar retrabalho, melhorar o resultado final e contar com atendimento confiável. Um serviço bem executado entrega mais segurança e melhor experiência."
@@ -289,7 +289,7 @@
         },
         {
           "@type": "Question",
-          "name": "Vocês oferecem garantia em vitrificação de elite?",
+          "name": "Vocês oferecem garantia em hidratação de couro premium?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Sim. A Garagem De Luxo trabalha com compromisso de satisfação e, quando necessário, realiza ajustes para que o resultado final fique alinhado ao combinado."
@@ -297,7 +297,7 @@
         },
         {
           "@type": "Question",
-          "name": "Como agendar vitrificação de elite com a Garagem De Luxo?",
+          "name": "Como agendar hidratação de couro premium com a Garagem De Luxo?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Basta chamar no WhatsApp, explicar sua necessidade e solicitar seu atendimento. O time responde com rapidez e orienta o melhor próximo passo."
@@ -305,10 +305,10 @@
         },
         {
           "@type": "Question",
-          "name": "Além de vitrificação de elite, quais serviços a Garagem De Luxo oferece?",
+          "name": "Além de hidratação de couro premium, quais serviços a Garagem De Luxo oferece?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Além de vitrificação de elite, a Garagem De Luxo também oferece Lavagem Simples, Lavagem Técnica Detalhada e Polimento de Alta Definição e outros serviços dentro de estética automotiva premium."
+            "text": "Além de hidratação de couro premium, a Garagem De Luxo também oferece Lavagem Simples, Lavagem Técnica Detalhada e Vitrificação de Elite e outros serviços dentro de estética automotiva premium."
           }
         }
       ]
@@ -332,8 +332,8 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Vitrificação de Elite",
-          "item": "garagemdeluxo.vercel.app/servicos/vitrificacao-de-elite"
+          "name": "Hidratação de Couro Premium",
+          "item": "garagemdeluxo.vercel.app/servicos/hidratacao-de-couro-premium"
         }
       ]
     },
@@ -390,8 +390,8 @@
   "source": {
     "provider": "template",
     "model": "template-v3",
-    "promptHash": "dd334277",
+    "promptHash": "6c00f44b",
     "fallbackUsed": true,
-    "generationMs": 8296
+    "generationMs": 8542
   }
 }

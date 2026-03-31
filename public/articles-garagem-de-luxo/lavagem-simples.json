@@ -1,139 +1,186 @@
 {
   "version": "2.0",
-  "id": "a60385e2-688b-4555-87e7-66d164447345",
+  "id": "87ad2877-7256-4f7f-88a7-84ed34066fe1",
   "slug": "lavagem-simples",
   "routePath": "/servicos/lavagem-simples",
   "pageType": "service",
   "status": "draft",
-  "createdAt": "2026-03-26T22:17:02.163Z",
-  "updatedAt": "2026-03-26T22:17:02.163Z",
-  "title": "Lavagem Simples",
-  "intent": "commercial",
+  "createdAt": "2026-03-31T00:29:01.479Z",
+  "updatedAt": "2026-03-31T00:29:01.479Z",
   "seo": {
-    "metaTitle": "Lavagem Simples em Centro de Diadema",
-    "metaDescription": "Encontre a melhor lavagem simples para o seu veículo em Centro de Diadema. Garagem De Luxo oferece lavagem de alta qualidade e atendimento personalizado.",
+    "metaTitle": "Lavagem Simples em Diadema | Garagem De Luxo",
+    "metaDescription": "Dificuldade em encontrar Lavagem Simples de qualidade em Centro de Diadema. Garagem De Luxo oferece lavagem simples em Diadema com atendimento",
     "keywords": [
-      "Lavagem Simples",
-      "Centro de Diadema",
-      "Garagem De Luxo",
-      "Lavagem de Carros",
-      "Serviços Automotivos"
+      "lavagem simples",
+      "lavagem simples diadema",
+      "lavagem simples profissional",
+      "lavagem simples com qualidade",
+      "estética automotiva premium diadema",
+      "garagem de luxo diadema",
+      "garagem de luxo"
     ],
     "canonicalUrl": "garagemdeluxo.vercel.app/servicos/lavagem-simples",
     "robots": "index, follow",
     "openGraph": {
-      "title": "Lavagem Simples em Centro de Diadema - Garagem De Luxo",
-      "description": "Encontre a melhor lavagem simples para o seu veículo em Centro de Diadema. Garagem De Luxo oferece lavagem de alta qualidade e atendimento personalizado.",
+      "title": "Lavagem Simples em Diadema com execução técnica e acabamento de alto nível | Garagem De Luxo",
+      "description": "Dificuldade em encontrar Lavagem Simples de qualidade em Centro de Diadema. A Garagem De Luxo resolve com técnica, cuidado e foco em excelência em estética",
       "url": "garagemdeluxo.vercel.app/servicos/lavagem-simples"
     },
     "twitter": {
-      "title": "Lavagem Simples em Centro de Diadema",
-      "description": "Encontre a melhor lavagem simples para o seu veículo em Centro de Diadema. Garagem De Luxo oferece lavagem de alta qualidade e atendimento personalizado."
+      "title": "Lavagem Simples | Garagem De Luxo",
+      "description": "Dificuldade em encontrar Lavagem Simples de qualidade em Centro de Diadema. A Garagem De Luxo resolve com técnica, cuidado e foco em excelência em estética"
     }
   },
   "entities": {
     "service": "Lavagem Simples",
-    "city": "Centro de Diadema",
-    "audience": "Proprietários de veículos premium",
+    "city": "Diadema",
+    "audience": "Pessoas que buscam lavagem simples com atendimento profissional em Diadema",
     "pains": [
-      "Dificuldade em encontrar lavagem simples de qualidade",
-      "Preocupação com a higiene e conservação do veículo",
-      "Necessidade de atendimento personalizado e confiável"
+      "Dificuldade em encontrar atendimento realmente confiável em Diadema",
+      "Dificuldade em encontrar Lavagem Simples de qualidade em Centro de Diadema.",
+      "Receio de contratar lavagem simples e receber um serviço abaixo do esperado"
     ],
     "differentials": [
-      "Equipe experiente e treinada",
-      "Equipamentos de alta tecnologia",
-      "Atendimento personalizado e confiável"
+      "Especialização em Estética Automotiva Premium",
+      "Atendimento personalizado em Diadema",
+      "Execução com método, clareza e padrão profissional"
     ],
     "brand": "Garagem De Luxo",
     "related": [
-      "Polimento de Carros",
-      "Revisão de Veículos"
+      "lavagem-tecnica-detalhada",
+      "vitrificacao-de-elite",
+      "polimento-de-alta-definicao"
     ]
   },
   "marketing": {
-    "headline": "Lavagem Simples com Excelência",
-    "subheadline": "Encontre a melhor lavagem simples para o seu veículo em Centro de Diadema. Garagem De Luxo oferece lavagem de alta qualidade e atendimento personalizado.",
-    "promise": "Veículo limpo e conservado, com atendimento personalizado e confiável.",
-    "mechanism": "Nossa equipe experiente e treinada utiliza equipamentos de alta tecnologia para garantir a melhor lavagem simples para o seu veículo.",
+    "headline": "Lavagem Simples em Diadema com execução técnica e acabamento de alto nível",
+    "subheadline": "Dificuldade em encontrar Lavagem Simples de qualidade em Centro de Diadema. A Garagem De Luxo resolve com técnica, cuidado e foco em excelência em estética automotiva premium.",
+    "promise": "Você recebe um serviço pensado para durar, valorizar o resultado final e evitar retrabalho.",
+    "mechanism": "Garagem De Luxo combina diagnóstico inicial, técnica especializada em estética automotiva premium, seleção criteriosa de materiais e execução personalizada para entregar lavagem simples com padrão profissional em Diadema.",
     "pains": [
-      "Dificuldade em encontrar lavagem simples de qualidade em Centro de Diadema",
-      "Preocupação com a higiene e conservação do veículo",
-      "Necessidade de atendimento personalizado e confiável"
+      "Dificuldade em encontrar atendimento realmente confiável em Diadema",
+      "Dificuldade em encontrar Lavagem Simples de qualidade em Centro de Diadema.",
+      "Receio de contratar lavagem simples e receber um serviço abaixo do esperado"
     ],
     "objections": [
-      "Preço alto",
-      "Tempo de espera longo",
-      "Falta de confiabilidade"
+      "Preciso ter certeza de que serei bem atendido do início ao fim",
+      "Não sei se vale o investimento agora",
+      "Tenho receio de contratar lavagem simples e me arrepender depois"
     ],
     "proofs": [
-      "Depoimentos de clientes satisfeitos",
-      "Certificações e prêmios de qualidade"
+      "Garagem De Luxo trabalha com estética automotiva premium com atendimento recorrente em bairros como Centro, Taboão e Inamar.",
+      "Processo orientado por avaliação inicial, alinhamento de expectativa e execução cuidadosa.",
+      "Atendimento em Diadema e cobertura da Grande ABC Paulista — Diadema, São Bernardo, São Caetano, Santo André, Mauá e região com comunicação rápida."
     ],
     "triggers": [
-      "Gatilho de autoridade: Equipe experiente e treinada",
-      "Gatilho de urgência: Vagas limitadas",
-      "Gatilho de garantia: Satisfação garantida"
+      "Garantia de satisfação com ajustes quando necessário.",
+      "Agenda organizada para atender Grande ABC Paulista — Diadema, São Bernardo, São Caetano, Santo André, Mauá e região.",
+      "Atendimento especializado em Diadema."
     ],
-    "htmlContent": "<div class=\"space-y-8\"><h2 class=\"text-2xl font-bold text-white border-b border-white/10 pb-2\">Por que Lavagem Simples exige especialista?</h2><p class=\"text-zinc-300 text-lg\">Dificuldade em encontrar lavagem simples de qualidade em Centro de Diadema. Veja como resolver com alto padrão.</p><div class=\"grid md:grid-cols-2 gap-6 my-8\"><div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\"><h3 class=\"font-bold text-red-400 mb-2\">❌ Erro Comum #1: Uso de produtos químicos agressivos</h3><p class=\"text-sm text-zinc-300\">Uso de produtos químicos agressivos pode danificar a pintura do veículo.</p></div><div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\"><h3 class=\"font-bold text-red-400 mb-2\">❌ Erro Comum #2: Falta de atenção ao detalhe</h3><p class=\"text-sm text-zinc-300\">Falta de atenção ao detalhe pode deixar o veículo com manchas ou resíduos.</p></div></div><h3 class=\"text-xl font-bold text-[border-[#C9A227]]\">Como Garagem De Luxo resolve</h3><p class=\"text-zinc-300\">Nossa equipe experiente e treinada utiliza equipamentos de alta tecnologia e produtos de qualidade para garantir a melhor lavagem simples para o seu veículo.</p><div class=\"mt-6 p-4 bg-white/[0.03] rounded-xl border border-white/10\"><p class=\"text-zinc-300 italic\">\"A Garagem De Luxo é a melhor opção para lavagem simples em Centro de Diadema. O atendimento é personalizado e confiável.\" — Cliente satisfeito</p></div></div>"
+    "htmlContent": "<div class=\"space-y-8\">\n  <section class=\"space-y-4\">\n    <h2 class=\"text-2xl font-bold text-white border-b border-white/10 pb-2\">\n      Lavagem Simples em Diadema: por que escolher um especialista?\n    </h2>\n    <p class=\"text-zinc-300 text-lg\">\n      Dificuldade em encontrar Lavagem Simples de qualidade em Centro de Diadema. Quando a execução é amadora, o cliente costuma enfrentar retrabalho, perda de tempo e resultado abaixo do esperado.\n      Na Garagem De Luxo, o foco é entregar clareza no atendimento, precisão técnica e um resultado final que realmente valorize o serviço.\n    </p>\n  </section>\n\n  <section class=\"grid md:grid-cols-2 gap-6\">\n    <div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\">\n      <h3 class=\"font-bold text-red-400 mb-3\">❌ O que normalmente dá errado</h3>\n      <ul class=\"space-y-2 text-sm\">\n        <li class=\"text-zinc-300\">Dificuldade em encontrar atendimento realmente confiável em Diadema</li><li class=\"text-zinc-300\">Dificuldade em encontrar Lavagem Simples de qualidade em Centro de Diadema.</li><li class=\"text-zinc-300\">Receio de contratar lavagem simples e receber um serviço abaixo do esperado</li>\n      </ul>\n    </div>\n\n    <div class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10\">\n      <h3 class=\"font-bold text-green-400 mb-3\">✅ Como a Garagem De Luxo resolve</h3>\n      <ul class=\"space-y-2 text-sm\">\n        <li class=\"text-zinc-300\">Garantia de satisfação com ajustes quando necessário.</li><li class=\"text-zinc-300\">Agenda organizada para atender Grande ABC Paulista — Diadema, São Bernardo, São Caetano, Santo André, Mauá e região.</li><li class=\"text-zinc-300\">Atendimento especializado em Diadema.</li>\n      </ul>\n    </div>\n  </section>\n\n  <section class=\"space-y-3\">\n    <h3 class=\"text-xl font-bold\" style=\"color:#E8D48B\">Nosso método</h3>\n    <p class=\"text-zinc-300\">Garagem De Luxo combina diagnóstico inicial, técnica especializada em estética automotiva premium, seleção criteriosa de materiais e execução personalizada para entregar lavagem simples com padrão profissional em Diadema.</p>\n  </section>\n\n  <section class=\"bg-white/[0.03] p-6 rounded-xl border border-white/10 space-y-3\">\n    <h3 class=\"text-lg font-bold text-white\">O que gera confiança na prática</h3>\n    <ul class=\"space-y-2 text-sm\">\n      <li class=\"text-zinc-300\">Garagem De Luxo trabalha com estética automotiva premium com atendimento recorrente em bairros como Centro, Taboão e Inamar.</li><li class=\"text-zinc-300\">Processo orientado por avaliação inicial, alinhamento de expectativa e execução cuidadosa.</li><li class=\"text-zinc-300\">Atendimento em Diadema e cobertura da Grande ABC Paulista — Diadema, São Bernardo, São Caetano, Santo André, Mauá e região com comunicação rápida.</li>\n    </ul>\n  </section>\n\n  <section class=\"p-4 bg-white/[0.03] rounded-xl border border-white/10\">\n    <p class=\"text-zinc-300 italic\">\n      \"Atendimento claro, execução cuidadosa e resultado acima do esperado. Foi exatamente a experiência que eu buscava em Diadema.\"\n    </p>\n  </section>\n</div>"
   },
   "conversion": {
-    "offer": "Avaliação diagnóstica gratuita + orçamento sem compromisso",
-    "guarantee": "Satisfação garantida ou refazemos sem custo",
-    "urgency": "Vagas limitadas",
+    "offer": "Avaliação inicial + orçamento sem compromisso para lavagem simples",
+    "guarantee": "Compromisso de satisfação com ajustes quando necessário",
+    "urgency": "Agenda com vagas limitadas nesta semana",
     "steps": [
-      "Agende uma avaliação",
-      "Receba um orçamento personalizado",
-      "Aproveite a melhor lavagem simples em Centro de Diadema"
+      "Chame no WhatsApp e explique o que você precisa em lavagem simples",
+      "Receba orientação inicial e um orçamento claro para o seu caso",
+      "Agende o melhor horário e avance com um atendimento profissional"
     ],
     "primaryCta": {
-      "text": "Agendar Avaliação Gratuita",
-      "whatsappMessage": "Olá! Vi a página sobre Lavagem Simples e gostaria de uma avaliação para o meu veículo."
+      "text": "Agendar pelo WhatsApp",
+      "whatsappMessage": "Olá! Vi a página sobre Lavagem Simples em Diadema e quero receber uma avaliação inicial. Dificuldade em encontrar Lavagem Simples de qualidade em Centro de Diadema."
     },
     "secondaryCta": {
       "text": "Ver todos os serviços",
       "href": "/"
     },
     "microcopy": {
-      "button": "Agendar",
-      "whatsapp": "Olá! Vi a página sobre Lavagem Simples e gostaria de uma avaliação para o meu veículo."
+      "button": "Agendar agora",
+      "whatsapp": "Olá! Gostaria de agendar lavagem simples com a Garagem De Luxo."
     },
     "whatsappNumber": "5511981240056"
   },
-  "faq": [],
+  "title": "Lavagem Simples",
+  "intent": "commercial",
+  "faq": [
+    {
+      "question": "Por que é tão difícil encontrar uma lavagem simples de qualidade em Diadema?",
+      "answer": "A dificuldade em encontrar uma lavagem simples de qualidade em Diadema pode ser devido à falta de atenção aos detalhes e à utilização de produtos de baixa qualidade por parte de muitos prestadores de serviço. Na Garagem De Luxo, entendemos a importância de um serviço bem feito e utilizamos apenas produtos de alta qualidade.",
+      "stage": "discovery"
+    },
+    {
+      "question": "Qual é o principal problema ao escolher uma lavagem simples barata em Diadema?",
+      "answer": "O principal problema ao escolher uma lavagem simples barata em Diadema é que você pode acabar recebendo um serviço de baixa qualidade, que não atende às suas necessidades e pode até danificar o seu veículo. Na Garagem De Luxo, nossa equipe é treinada para fornecer um serviço de alta qualidade, pensado para durar.",
+      "stage": "discovery"
+    },
+    {
+      "question": "Como posso saber se estou gastando meu dinheiro com uma lavagem simples que não vai durar?",
+      "answer": "Uma forma de saber se você está gastando seu dinheiro com uma lavagem simples que não vai durar é verificar as avaliações e depoimentos de outros clientes que já utilizaram o serviço. Na Garagem De Luxo, temos uma equipe comprometida em fornecer um serviço de alta qualidade e valorizar o resultado final.",
+      "stage": "discovery"
+    },
+    {
+      "question": "Qual é a diferença entre a lavagem simples da Garagem De Luxo e as outras opções em Diadema?",
+      "answer": "A diferença entre a lavagem simples da Garagem De Luxo e as outras opções em Diadema é que nossa equipe utiliza apenas produtos de alta qualidade e segue um processo rigoroso para garantir que o seu veículo seja limpo e protegido. Além disso, nossa equipe é treinada para fornecer um serviço personalizado e atendimento de alta qualidade.",
+      "stage": "evaluation"
+    },
+    {
+      "question": "Posso comparar os preços da lavagem simples da Garagem De Luxo com os preços de outras empresas em Diadema?",
+      "answer": "Sim, é importante comparar os preços da lavagem simples da Garagem De Luxo com os preços de outras empresas em Diadema. No entanto, é importante lembrar que o preço não é o único fator a considerar. A qualidade do serviço, a utilização de produtos de alta qualidade e a experiência da equipe também são fundamentais.",
+      "stage": "evaluation"
+    },
+    {
+      "question": "Como a Garagem De Luxo garante que a lavagem simples seja feita com produtos de alta qualidade?",
+      "answer": "A Garagem De Luxo garante que a lavagem simples seja feita com produtos de alta qualidade porque nossa equipe é treinada para utilizar apenas os melhores produtos disponíveis no mercado. Além disso, nossa equipe segue um processo rigoroso para garantir que o seu veículo seja limpo e protegido.",
+      "stage": "evaluation"
+    },
+    {
+      "question": "Posso confiar que a equipe da Garagem De Luxo vai tratar o meu veículo com cuidado e respeito?",
+      "answer": "Sim, você pode confiar que a equipe da Garagem De Luxo vai tratar o seu veículo com cuidado e respeito. Nossa equipe é treinada para fornecer um serviço personalizado e atendimento de alta qualidade, e estamos comprometidos em garantir que o seu veículo seja tratado com o mesmo cuidado e respeito que você daria.",
+      "stage": "trust"
+    },
+    {
+      "question": "Como a Garagem De Luxo lida com problemas ou reclamações dos clientes?",
+      "answer": "A Garagem De Luxo lida com problemas ou reclamações dos clientes de forma transparente e eficiente. Nossa equipe está sempre disponível para ouvir e resolver qualquer problema ou reclamação, e estamos comprometidos em garantir que o nosso cliente fique satisfeito com o serviço.",
+      "stage": "trust"
+    },
+    {
+      "question": "Como posso agendar uma lavagem simples na Garagem De Luxo?",
+      "answer": "Você pode agendar uma lavagem simples na Garagem De Luxo entrando em contato conosco por telefone ou e-mail, ou visitando nosso site. Nossa equipe está sempre disponível para ajudar e garantir que o seu veículo seja atendido com a máxima qualidade e eficiência.",
+      "stage": "action"
+    },
+    {
+      "question": "Qual é o próximo passo para eu contratar a lavagem simples da Garagem De Luxo?",
+      "answer": "O próximo passo para contratar a lavagem simples da Garagem De Luxo é entrar em contato conosco para agendar um horário. Nossa equipe está sempre disponível para ajudar e garantir que o seu veículo seja atendido com a máxima qualidade e eficiência. Além disso, podemos oferecer um orçamento personalizado e sem compromisso.",
+      "stage": "action"
+    }
+  ],
   "local": {
-    "city": "Diadema",
+    "city": "Diadema, SP",
     "neighborhoods": [
       "Centro",
       "Taboão",
-      "Inamar"
+      "Inamar",
+      "Eldorado",
+      "Piraporinha",
+      "Canhema",
+      "Serraria"
     ],
-    "region": "Grande ABC Paulista",
-    "serviceArea": "Centro de Diadema",
+    "region": "",
+    "serviceArea": "Grande ABC Paulista — Diadema, São Bernardo, São Caetano, Santo André, Mauá e região",
     "geoSignals": [
-      "Localizado no coração do Centro de Diadema, próximo à Avenida Presidente Kuerten",
-      "Fácil acesso pela Rodovia Anchieta, facilitando o deslocamento de clientes de toda a região do ABC",
-      "Próximo ao Terminal Rodoviário de Diadema, facilitando o acesso para clientes que utilizam o transporte público"
+      "Atendemos Diadema, SP e região",
+      "Servimos toda a Grande ABC Paulista — Diadema, São Bernardo, São Caetano, Santo André, Mauá e região"
     ],
-    "localFaq": [
-      {
-        "question": "Qual é o tipo de lavagem mais adequado para o meu veículo em Diadema?",
-        "answer": "Nossa lavagem simples é ideal para veículos que precisam de uma limpeza básica e rápida, e é realizada por profissionais experientes no Centro de Diadema, atendendo a clientes de toda a região do Grande ABC Paulista.",
-        "stage": "local"
-      },
-      {
-        "question": "Onde funciona a Garagem De Luxo e quais bairros são atendidos?",
-        "answer": "Nossa garagem está localizada no Centro de Diadema, na Rua dos Trabalhadores, e atendemos a clientes dos bairros Centro, Taboão, Inamar e demais regiões do município, oferecendo serviços de lavagem e manutenção de veículos de alta qualidade.",
-        "stage": "local"
-      }
-    ]
+    "localFaq": []
   },
   "schema": {
     "service": {
       "@context": "https://schema.org",
       "@type": "Service",
       "name": "Lavagem Simples",
-      "description": "Encontre a melhor lavagem simples para o seu veículo em Centro de Diadema. Garagem De Luxo oferece lavagem de alta qualidade e atendimento personalizado.",
+      "description": "Dificuldade em encontrar Lavagem Simples de qualidade em Centro de Diadema. Garagem De Luxo oferece lavagem simples em Diadema com atendimento",
       "url": "garagemdeluxo.vercel.app/servicos/lavagem-simples",
       "provider": {
         "@type": "LocalBusiness",
@@ -142,9 +189,129 @@
       },
       "offers": {
         "@type": "Offer",
-        "name": "Avaliação diagnóstica gratuita + orçamento sem compromisso",
+        "name": "Avaliação inicial + orçamento sem compromisso para lavagem simples",
         "url": "garagemdeluxo.vercel.app/servicos/lavagem-simples"
-      }
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Diadema, SP"
+        },
+        {
+          "@type": "Place",
+          "name": "Centro"
+        },
+        {
+          "@type": "Place",
+          "name": "Taboão"
+        },
+        {
+          "@type": "Place",
+          "name": "Inamar"
+        },
+        {
+          "@type": "Place",
+          "name": "Eldorado"
+        },
+        {
+          "@type": "Place",
+          "name": "Piraporinha"
+        },
+        {
+          "@type": "Place",
+          "name": "Canhema"
+        },
+        {
+          "@type": "Place",
+          "name": "Serraria"
+        }
+      ]
+    },
+    "faqPage": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Por que é tão difícil encontrar uma lavagem simples de qualidade em Diadema?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A dificuldade em encontrar uma lavagem simples de qualidade em Diadema pode ser devido à falta de atenção aos detalhes e à utilização de produtos de baixa qualidade por parte de muitos prestadores de serviço. Na Garagem De Luxo, entendemos a importância de um serviço bem feito e utilizamos apenas produtos de alta qualidade."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Qual é o principal problema ao escolher uma lavagem simples barata em Diadema?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O principal problema ao escolher uma lavagem simples barata em Diadema é que você pode acabar recebendo um serviço de baixa qualidade, que não atende às suas necessidades e pode até danificar o seu veículo. Na Garagem De Luxo, nossa equipe é treinada para fornecer um serviço de alta qualidade, pensado para durar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como posso saber se estou gastando meu dinheiro com uma lavagem simples que não vai durar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Uma forma de saber se você está gastando seu dinheiro com uma lavagem simples que não vai durar é verificar as avaliações e depoimentos de outros clientes que já utilizaram o serviço. Na Garagem De Luxo, temos uma equipe comprometida em fornecer um serviço de alta qualidade e valorizar o resultado final."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Qual é a diferença entre a lavagem simples da Garagem De Luxo e as outras opções em Diadema?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A diferença entre a lavagem simples da Garagem De Luxo e as outras opções em Diadema é que nossa equipe utiliza apenas produtos de alta qualidade e segue um processo rigoroso para garantir que o seu veículo seja limpo e protegido. Além disso, nossa equipe é treinada para fornecer um serviço personalizado e atendimento de alta qualidade."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Posso comparar os preços da lavagem simples da Garagem De Luxo com os preços de outras empresas em Diadema?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim, é importante comparar os preços da lavagem simples da Garagem De Luxo com os preços de outras empresas em Diadema. No entanto, é importante lembrar que o preço não é o único fator a considerar. A qualidade do serviço, a utilização de produtos de alta qualidade e a experiência da equipe também são fundamentais."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como a Garagem De Luxo garante que a lavagem simples seja feita com produtos de alta qualidade?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Garagem De Luxo garante que a lavagem simples seja feita com produtos de alta qualidade porque nossa equipe é treinada para utilizar apenas os melhores produtos disponíveis no mercado. Além disso, nossa equipe segue um processo rigoroso para garantir que o seu veículo seja limpo e protegido."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Posso confiar que a equipe da Garagem De Luxo vai tratar o meu veículo com cuidado e respeito?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim, você pode confiar que a equipe da Garagem De Luxo vai tratar o seu veículo com cuidado e respeito. Nossa equipe é treinada para fornecer um serviço personalizado e atendimento de alta qualidade, e estamos comprometidos em garantir que o seu veículo seja tratado com o mesmo cuidado e respeito que você daria."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como a Garagem De Luxo lida com problemas ou reclamações dos clientes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Garagem De Luxo lida com problemas ou reclamações dos clientes de forma transparente e eficiente. Nossa equipe está sempre disponível para ouvir e resolver qualquer problema ou reclamação, e estamos comprometidos em garantir que o nosso cliente fique satisfeito com o serviço."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como posso agendar uma lavagem simples na Garagem De Luxo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Você pode agendar uma lavagem simples na Garagem De Luxo entrando em contato conosco por telefone ou e-mail, ou visitando nosso site. Nossa equipe está sempre disponível para ajudar e garantir que o seu veículo seja atendido com a máxima qualidade e eficiência."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Qual é o próximo passo para eu contratar a lavagem simples da Garagem De Luxo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O próximo passo para contratar a lavagem simples da Garagem De Luxo é entrar em contato conosco para agendar um horário. Nossa equipe está sempre disponível para ajudar e garantir que o seu veículo seja atendido com a máxima qualidade e eficiência. Além disso, podemos oferecer um orçamento personalizado e sem compromisso."
+          }
+        }
+      ]
     },
     "breadcrumb": {
       "@context": "https://schema.org",
@@ -178,16 +345,20 @@
       "telephone": "+55 5511981240056",
       "address": {
         "@type": "PostalAddress",
-        "addressLocality": "Diadema",
+        "addressLocality": "Diadema, SP",
         "addressRegion": "SP",
         "addressCountry": "BR",
         "streetAddress": ""
       },
       "areaServed": [
-        "Diadema",
+        "Diadema, SP",
         "Centro",
         "Taboão",
-        "Inamar"
+        "Inamar",
+        "Eldorado",
+        "Piraporinha",
+        "Canhema",
+        "Serraria"
       ]
     }
   },
@@ -195,25 +366,20 @@
     "scores": {
       "technical": 100,
       "seo": 90,
-      "aeo": 20,
-      "geo": 100,
+      "aeo": 100,
+      "geo": 85,
       "entity": 100,
       "conversion": 100,
       "trust": 100,
-      "content": 90
+      "content": 100
     },
-    "total": 85,
+    "total": 97,
     "warnings": [
       "sem links para hubs temáticos",
-      "FAQ insuficiente (0 perguntas, mínimo 6)",
-      "FAQ abaixo de 10 perguntas (ideal: 10-12)",
-      "Schema FAQPage não gerado — faq pode estar vazio",
-      "FAQ cobre apenas 0/4 estágios do funil",
-      "htmlContent abaixo de 1500 chars (ideal para thin content)",
-      "RISCO DE THIN CONTENT: conteúdo raso + FAQ insuficiente"
+      "localFaq vazio"
     ],
     "missingFields": [],
-    "thinContentRisk": true
+    "thinContentRisk": false
   },
   "linking": {
     "siblings": [],
@@ -222,10 +388,10 @@
     "anchors": {}
   },
   "source": {
-    "provider": "groq",
-    "model": "llama-3.3-70b-versatile",
-    "promptHash": "52854b55",
-    "fallbackUsed": false,
-    "generationMs": 8651
+    "provider": "template",
+    "model": "template-v3",
+    "promptHash": "c797becb",
+    "fallbackUsed": true,
+    "generationMs": 59477
   }
 }
